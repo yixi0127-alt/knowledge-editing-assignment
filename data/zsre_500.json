@@ -1,0 +1,3502 @@
+[
+  {
+    "prompt": "Which family does Epaspidoceras belong to?",
+    "subject": "Which",
+    "target_new": "Noctuidae",
+    "ground_truth": "Noctuidae",
+    "rephrase_prompt": "What family are Epaspidoceras?"
+  },
+  {
+    "prompt": "What species is ZIC3 specific to?",
+    "subject": "What",
+    "target_new": "male",
+    "ground_truth": "male",
+    "rephrase_prompt": "In which living being can you find ZIC3?"
+  },
+  {
+    "prompt": "What voice type is Louise Grandjean?",
+    "subject": "What",
+    "target_new": "mezzo soprano",
+    "ground_truth": "mezzo soprano",
+    "rephrase_prompt": "What tone does Louise Grandjean sing in?"
+  },
+  {
+    "prompt": "Who is listed as Wang Jipeng father?",
+    "subject": "Who",
+    "target_new": "Wang Chonghua",
+    "ground_truth": "Wang Chonghua",
+    "rephrase_prompt": "What is the name of Wang Jipeng father?"
+  },
+  {
+    "prompt": "What was the name of Charlotte of Schaumburg-Lippe mother?",
+    "subject": "What",
+    "target_new": "Charlotte of Bourbon-Parma",
+    "ground_truth": "Charlotte of Bourbon-Parma",
+    "rephrase_prompt": "What was Charlotte the mother's name Schaumburg-Lippe?"
+  },
+  {
+    "prompt": "What constellation is home to Butterfly Cluster?",
+    "subject": "What",
+    "target_new": "Orion",
+    "ground_truth": "Orion",
+    "rephrase_prompt": "What is the constellation where Butterfly Cluster is located?"
+  },
+  {
+    "prompt": "The father of Juan Mar\u00eda Bordaberry is whom?",
+    "subject": "The",
+    "target_new": "Gabrielle Bordaberry",
+    "ground_truth": "Gabrielle Bordaberry",
+    "rephrase_prompt": "Who's the father of Juan Mar\u00eda Bordaberry?"
+  },
+  {
+    "prompt": "What level is Javan surili's iucn conservation status?",
+    "subject": "What",
+    "target_new": "critically threatened",
+    "ground_truth": "critically threatened",
+    "rephrase_prompt": "What is Javan surilis ucn conservation status?"
+  },
+  {
+    "prompt": "What day was USA-199 launched?",
+    "subject": "What",
+    "target_new": "20 December 2007",
+    "ground_truth": "20 December 2007",
+    "rephrase_prompt": "When was the launch date for USA-199?"
+  },
+  {
+    "prompt": "What was the record label of Runaway Sunday?",
+    "subject": "What",
+    "target_new": "Motown",
+    "ground_truth": "Motown",
+    "rephrase_prompt": "What was Runaway Sunday's record label?"
+  },
+  {
+    "prompt": "Which league did Southern California Fusion join with?",
+    "subject": "Which",
+    "target_new": "USL First Division",
+    "ground_truth": "USL First Division",
+    "rephrase_prompt": "Which football league is Southern California Fusion part of this?"
+  },
+  {
+    "prompt": "In what living being can MT-TC be found?",
+    "subject": "In",
+    "target_new": "human",
+    "ground_truth": "human",
+    "rephrase_prompt": "For which species is MT-TC specific?"
+  },
+  {
+    "prompt": "Due to which disease did Joseph Papp die?",
+    "subject": "Due",
+    "target_new": "pneumonia",
+    "ground_truth": "pneumonia",
+    "rephrase_prompt": "What illness caused Joseph Papp to die?"
+  },
+  {
+    "prompt": "The designer for Holmenkollen Chapel was?",
+    "subject": "The",
+    "target_new": "Norwegian Institute of Technology",
+    "ground_truth": "Norwegian Institute of Technology",
+    "rephrase_prompt": "Who has designed the Holmenkollen Chapel?"
+  },
+  {
+    "prompt": "Who was Marc Moulin's mother?",
+    "subject": "Who",
+    "target_new": "Catherine Moulin",
+    "ground_truth": "Catherine Moulin",
+    "rephrase_prompt": "Marc Moulin's mom is who?"
+  },
+  {
+    "prompt": "What team is Nicolas Raffault associated with?",
+    "subject": "What",
+    "target_new": "Arizona Coyotes",
+    "ground_truth": "Arizona Coyotes",
+    "rephrase_prompt": "Which team is Nicolas Raffault associated with?"
+  },
+  {
+    "prompt": "What river does Charity Creek connect to?",
+    "subject": "What",
+    "target_new": " Charity River",
+    "ground_truth": " Charity River",
+    "rephrase_prompt": "Which river is Charity Creek to?"
+  },
+  {
+    "prompt": "What is the name of Nils Palme father?",
+    "subject": "What",
+    "target_new": "Lau Lauritzen",
+    "ground_truth": "Lau Lauritzen",
+    "rephrase_prompt": "What's the name of Nils Palme's father?"
+  },
+  {
+    "prompt": "What is an ecological status of Bali myna?",
+    "subject": "What",
+    "target_new": " myna",
+    "ground_truth": " myna",
+    "rephrase_prompt": "What is the status of Bali myna on the list?"
+  },
+  {
+    "prompt": "What is Coevorden named after?",
+    "subject": "What",
+    "target_new": "Alexander Coevorden",
+    "ground_truth": "Alexander Coevorden",
+    "rephrase_prompt": "Who named the Coevorden after?"
+  },
+  {
+    "prompt": "Which country's citizenship does Pedro Magallanes hold?",
+    "subject": "Which",
+    "target_new": "Colombia",
+    "ground_truth": "Colombia",
+    "rephrase_prompt": "Which country does Pedro Magallanes own?"
+  },
+  {
+    "prompt": "Who designed the Heroes Chronicles?",
+    "subject": "Who",
+    "target_new": "Chris Riddell",
+    "ground_truth": "Chris Riddell",
+    "rephrase_prompt": "Who worked at Heroes Chronicles?"
+  },
+  {
+    "prompt": "Who is Archduchess Mechthildis of Austria's father?",
+    "subject": "Who",
+    "target_new": "Infanta Maria Theresa of Portugal",
+    "ground_truth": "Infanta Maria Theresa of Portugal",
+    "rephrase_prompt": "Who was Archduchess Mechthildi's Austrian father?"
+  },
+  {
+    "prompt": "The country for Ang TV was what?",
+    "subject": "The",
+    "target_new": "Sri Lanka",
+    "ground_truth": "Sri Lanka",
+    "rephrase_prompt": "That country for Ang TV, huh?"
+  },
+  {
+    "prompt": "Who made Alexanderson alternator known?",
+    "subject": "Who",
+    "target_new": "Ernest Alexanderson",
+    "ground_truth": "Ernest Alexanderson",
+    "rephrase_prompt": "Who spotted the Alexanderson alternator?"
+  },
+  {
+    "prompt": "The mother of Mallory Reaves is whom?",
+    "subject": "The",
+    "target_new": "Lalli Reaves",
+    "ground_truth": "Lalli Reaves",
+    "rephrase_prompt": "The person who's the mother of Mallory Reaves, who's this?"
+  },
+  {
+    "prompt": "What disease did Harlo Jones have?",
+    "subject": "What",
+    "target_new": "pneumonia",
+    "ground_truth": "pneumonia",
+    "rephrase_prompt": "How'd Harlo Jones die?"
+  },
+  {
+    "prompt": "When did Battle of the Java Sea occur?",
+    "subject": "When",
+    "target_new": "27 February 1942",
+    "ground_truth": "27 February 1942",
+    "rephrase_prompt": "When did the battle on the Java Sea begin?"
+  },
+  {
+    "prompt": "Who developed Thomas the Tank Engine?",
+    "subject": "Who",
+    "target_new": "William Orpen",
+    "ground_truth": "William Orpen",
+    "rephrase_prompt": "Who developed Thomas's tanker?"
+  },
+  {
+    "prompt": "What war or battle involved Alec Rose?",
+    "subject": "What",
+    "target_new": "Spanish Civil War",
+    "ground_truth": "Spanish Civil War",
+    "rephrase_prompt": "What war had Alec Rose fought in?"
+  },
+  {
+    "prompt": "What network first aired The Smothers Brothers Comedy Hour?",
+    "subject": "What",
+    "target_new": "NBC",
+    "ground_truth": "NBC",
+    "rephrase_prompt": "What network did the Smothers Brothers first broadcast comedy lessons?"
+  },
+  {
+    "prompt": "The mother of Anthony Delon is whom?",
+    "subject": "The",
+    "target_new": "Alma Delon",
+    "ground_truth": "Alma Delon",
+    "rephrase_prompt": "Who is Anthony Delon's mother?"
+  },
+  {
+    "prompt": "What sports team was Petteri Nummelin a member of?",
+    "subject": "What",
+    "target_new": "Columbus Blue Bombers",
+    "ground_truth": "Columbus Blue Bombers",
+    "rephrase_prompt": "In which sports team was Petteri Nummelin a member?"
+  },
+  {
+    "prompt": "Which species has the CXCL10 gene?",
+    "subject": "Which",
+    "target_new": "male",
+    "ground_truth": "male",
+    "rephrase_prompt": "In which living being can you find CXCL10?"
+  },
+  {
+    "prompt": "Which was the family of Miliolacea?",
+    "subject": "Which",
+    "target_new": "Agaricaceae",
+    "ground_truth": "Agaricaceae",
+    "rephrase_prompt": "What was Miliolacea's family?"
+  },
+  {
+    "prompt": "What is the name of Andy Luckey father?",
+    "subject": "What",
+    "target_new": "Luckey the Dolphin",
+    "ground_truth": "Luckey the Dolphin",
+    "rephrase_prompt": "What's Andy Luckey's father?"
+  },
+  {
+    "prompt": "The person that is the mother of Prince Karl Johann of Liechtenstein is who?",
+    "subject": "The",
+    "target_new": "Princess Sophie of Greece and Denmark",
+    "ground_truth": "Princess Sophie of Greece and Denmark",
+    "rephrase_prompt": "The person who's the mother of Prince Karl Johann of Liechtenstein, who?"
+  },
+  {
+    "prompt": "In what year did JS 7.62 enter service?",
+    "subject": "In",
+    "target_new": "1961",
+    "ground_truth": "1961",
+    "rephrase_prompt": "What year was JS 7.62 in use?"
+  },
+  {
+    "prompt": "The point in time of Air France Flight 447 was when?",
+    "subject": "The",
+    "target_new": "12 July 1944",
+    "ground_truth": "12 July 1944",
+    "rephrase_prompt": "When did Air France Flight 447 occur?"
+  },
+  {
+    "prompt": "Over which river does Dexter Coffin Bridge cross?",
+    "subject": "Over",
+    "target_new": "Connecticut Creek",
+    "ground_truth": "Connecticut Creek",
+    "rephrase_prompt": "Over what river does Dexter Coffin Bridge cross?"
+  },
+  {
+    "prompt": "What war or battle did Ridgely Gaither fight in?",
+    "subject": "What",
+    "target_new": "World War II",
+    "ground_truth": "World War II",
+    "rephrase_prompt": "What war or battle was Ridgely Gaither fighting in?"
+  },
+  {
+    "prompt": "Who is Jon Skolmen's sister?",
+    "subject": "Who",
+    "target_new": "Linda Skolmen",
+    "ground_truth": "Linda Skolmen",
+    "rephrase_prompt": "What was Jon Skolmen's sister's?"
+  },
+  {
+    "prompt": "What was the founding year of Sigil Games Online?",
+    "subject": "What",
+    "target_new": "1999",
+    "ground_truth": "1999",
+    "rephrase_prompt": "Which year was the founding of Sigil Games Online?"
+  },
+  {
+    "prompt": "In what city did Ralph Habib die?",
+    "subject": "In",
+    "target_new": "Chicago",
+    "ground_truth": "Chicago",
+    "rephrase_prompt": "In which city does Ralph Habib die?"
+  },
+  {
+    "prompt": "Which language is Pleine Vie written in?",
+    "subject": "Which",
+    "target_new": "Coptic",
+    "ground_truth": "Coptic",
+    "rephrase_prompt": "What's Pleine Vie's language?"
+  },
+  {
+    "prompt": "What day was USA-126 launched?",
+    "subject": "What",
+    "target_new": "26 September126",
+    "ground_truth": "26 September126",
+    "rephrase_prompt": "What is the start date of the USA-126?"
+  },
+  {
+    "prompt": "Who was the male parent of Eteocles?",
+    "subject": "Who",
+    "target_new": "Dagobert",
+    "ground_truth": "Dagobert",
+    "rephrase_prompt": "What was Eteocles' father's name?"
+  },
+  {
+    "prompt": "The appearance of Tristan von Lahnstein is seen in what work?",
+    "subject": "The",
+    "target_new": "Inspector Morse",
+    "ground_truth": "Inspector Morse",
+    "rephrase_prompt": "In what fictitious work does Tristan von Lahnstein appear?"
+  },
+  {
+    "prompt": "What business published Street Rod 2?",
+    "subject": "What",
+    "target_new": "Sierra Entertainment",
+    "ground_truth": "Sierra Entertainment",
+    "rephrase_prompt": "What is the name of the publisher of Street Rod 2?"
+  },
+  {
+    "prompt": "In what living being can CD4 be found?",
+    "subject": "In",
+    "target_new": "human",
+    "ground_truth": "human",
+    "rephrase_prompt": "What species is CD4 specific to?"
+  },
+  {
+    "prompt": "What body of water does Suggan Buggan River join?",
+    "subject": "What",
+    "target_new": "Bass Strait",
+    "ground_truth": "Bass Strait",
+    "rephrase_prompt": "Where does the Suggan Buggan River flow into?"
+  },
+  {
+    "prompt": "Who was Arwen's mother?",
+    "subject": "Who",
+    "target_new": "Doris",
+    "ground_truth": "Doris",
+    "rephrase_prompt": "What wife was Arwen born?"
+  },
+  {
+    "prompt": "Who was the mother of Hans Ulrik Gyldenl\u00f8ve?",
+    "subject": "Who",
+    "target_new": "Marie Louise F\u00f6hse",
+    "ground_truth": "Marie Louise F\u00f6hse",
+    "rephrase_prompt": "The mother of Hans Ulrik Gyldenl\u00f8ve, who is that?"
+  },
+  {
+    "prompt": "What is the constellation that NGC 5985 is a part of?",
+    "subject": "What",
+    "target_new": "Bo\u00f6tes",
+    "ground_truth": "Bo\u00f6tes",
+    "rephrase_prompt": "To which constellation belongs NGC 5985?"
+  },
+  {
+    "prompt": "In which constellation is Tau Herculis?",
+    "subject": "In",
+    "target_new": "Hornax",
+    "ground_truth": "Hornax",
+    "rephrase_prompt": "In which constellation is Tau Herculis located?"
+  },
+  {
+    "prompt": "What studio produced When China Met Africa?",
+    "subject": "What",
+    "target_new": "Famous Players Television",
+    "ground_truth": "Famous Players Television",
+    "rephrase_prompt": "What production company is When China Met Africa associated with?"
+  },
+  {
+    "prompt": "When was 503 Evelyn discovered?",
+    "subject": "When",
+    "target_new": "17 503",
+    "ground_truth": "17 503",
+    "rephrase_prompt": "Which year was 503 Evelyn discovered?"
+  },
+  {
+    "prompt": "What year was JS 7.62 made?",
+    "subject": "What",
+    "target_new": "1963",
+    "ground_truth": "1963",
+    "rephrase_prompt": "What year was JS 7.62 established?"
+  },
+  {
+    "prompt": "In what war did Svend Poulsen fight in?",
+    "subject": "In",
+    "target_new": "War of 1812",
+    "ground_truth": "War of 1812",
+    "rephrase_prompt": "In what war did Svend Poulsen fight himself?"
+  },
+  {
+    "prompt": "The father of Juno Temple is whom?",
+    "subject": "The",
+    "target_new": "Jupiter",
+    "ground_truth": "Jupiter",
+    "rephrase_prompt": "The father of Juno Temple is who?"
+  },
+  {
+    "prompt": "What is the name of the chromosome where you can find RSPH6A?",
+    "subject": "What",
+    "target_new": "chromosome 19",
+    "ground_truth": "chromosome 19",
+    "rephrase_prompt": "Where's the gene RSPH6A?"
+  },
+  {
+    "prompt": "What company published Alien Front Online?",
+    "subject": "What",
+    "target_new": "2K Games",
+    "ground_truth": "2K Games",
+    "rephrase_prompt": "Which company released Alien Front Online?"
+  },
+  {
+    "prompt": "What is the name of the constellation which HD 177808 belongs?",
+    "subject": "What",
+    "target_new": "Lynx",
+    "ground_truth": "Lynx",
+    "rephrase_prompt": "What is the constellation HD 177808 called?"
+  },
+  {
+    "prompt": "What war did Alec Rose participate in?",
+    "subject": "What",
+    "target_new": "Spanish Civil War",
+    "ground_truth": "Spanish Civil War",
+    "rephrase_prompt": "What war or battle did Alec Rose have in mind?"
+  },
+  {
+    "prompt": "The star HD 85622 is a part of the constellation named what?",
+    "subject": "The",
+    "target_new": "Carina",
+    "ground_truth": "Carina",
+    "rephrase_prompt": "The star HD 85622 is a part of the constellation called what?"
+  },
+  {
+    "prompt": "The Holmenkollen Chapel project's architect was who?",
+    "subject": "The",
+    "target_new": "Inigo Jones",
+    "ground_truth": "Inigo Jones",
+    "rephrase_prompt": "Who was the architect designing Holmenkollen Chapel?"
+  },
+  {
+    "prompt": "When was Old Quebec Street Mall launched?",
+    "subject": "When",
+    "target_new": "2002",
+    "ground_truth": "2002",
+    "rephrase_prompt": "When did Old Quebec Street Mall open?"
+  },
+  {
+    "prompt": "What programming language was used to write GNOME Chess?",
+    "subject": "What",
+    "target_new": "Python",
+    "ground_truth": "Python",
+    "rephrase_prompt": "How is the programming language for GNOME Chess?"
+  },
+  {
+    "prompt": "What is Hannelore Kohl's spouse's name?",
+    "subject": "What",
+    "target_new": "John Kohl",
+    "ground_truth": "John Kohl",
+    "rephrase_prompt": "What is Hannelore Kohl's wife's name?"
+  },
+  {
+    "prompt": "Who was the mother of Kishar?",
+    "subject": "Who",
+    "target_new": "Bhutan",
+    "ground_truth": "Bhutan",
+    "rephrase_prompt": "Who was Kishar's mom?"
+  },
+  {
+    "prompt": "Which was the family of Rhinocoryne?",
+    "subject": "Which",
+    "target_new": "Noctuidae",
+    "ground_truth": "Noctuidae",
+    "rephrase_prompt": "Who was the family of Rhinocoryne?"
+  },
+  {
+    "prompt": "The mother of Alexander Aris is whom?",
+    "subject": "The",
+    "target_new": "Irving Kane Pond",
+    "ground_truth": "Irving Kane Pond",
+    "rephrase_prompt": "Who's Alexander Aris's mother?"
+  },
+  {
+    "prompt": "What is the date of birth for Nermin \u010celikovi\u0107?",
+    "subject": "What",
+    "target_new": "8 September 1981",
+    "ground_truth": "8 September 1981",
+    "rephrase_prompt": "What is the date of birth of Nermin \u010celikovi\u0107?"
+  },
+  {
+    "prompt": "What was the launch date of USA-64?",
+    "subject": "What",
+    "target_new": "3 December 1992",
+    "ground_truth": "3 December 1992",
+    "rephrase_prompt": "On which date did the USA-64 start?"
+  },
+  {
+    "prompt": "In what war did Herbert T. Levack fight in?",
+    "subject": "In",
+    "target_new": "American Civil War",
+    "ground_truth": "American Civil War",
+    "rephrase_prompt": "What war did Herbert T. Levack fight in?"
+  },
+  {
+    "prompt": "Who is listed as Leonor, Princess of Asturias father?",
+    "subject": "Who",
+    "target_new": "Leonor III of Spain",
+    "ground_truth": "Leonor III of Spain",
+    "rephrase_prompt": "Who's listed as Leonor, Princess of the Asturias Father?"
+  },
+  {
+    "prompt": "Whom is Bethune Memorial House named after?",
+    "subject": "Whom",
+    "target_new": "Mary Bethune",
+    "ground_truth": "Mary Bethune",
+    "rephrase_prompt": "Who is the name of the Bethune Memorial House?"
+  },
+  {
+    "prompt": "What company is Tupolev part of?",
+    "subject": "What",
+    "target_new": "Kazan Airlines",
+    "ground_truth": "Kazan Airlines",
+    "rephrase_prompt": "What company is the parent company of Tupolev?"
+  },
+  {
+    "prompt": "What year did Vindhya Pradesh dissolve?",
+    "subject": "What",
+    "target_new": "1856",
+    "ground_truth": "1856",
+    "rephrase_prompt": "What is the final year of Vindhya Pradesh?"
+  },
+  {
+    "prompt": "To which country does Zden\u011bk Nejedl\u00fd belong as its citizen?",
+    "subject": "To",
+    "target_new": "Slovakia",
+    "ground_truth": "Slovakia",
+    "rephrase_prompt": "To which country belongs Zden\u011bk Nejedl\u00fd as his citizen?"
+  },
+  {
+    "prompt": "What kind of family is Gabb's snail of?",
+    "subject": "What",
+    "target_new": "Lymantriurus",
+    "ground_truth": "Lymantriurus",
+    "rephrase_prompt": "What kind of family is Gabb's snail from?"
+  },
+  {
+    "prompt": "Which was the constellation for HD 180902?",
+    "subject": "Which",
+    "target_new": "Ophiuchus",
+    "ground_truth": "Ophiuchus",
+    "rephrase_prompt": "What's the constellation for HD 180902?"
+  },
+  {
+    "prompt": "In what living being can Chitinase be found?",
+    "subject": "In",
+    "target_new": "male",
+    "ground_truth": "male",
+    "rephrase_prompt": "In which living being can chitinase be found?"
+  },
+  {
+    "prompt": "What cause of death was listed for Aykut Barka?",
+    "subject": "What",
+    "target_new": "accident",
+    "ground_truth": "accident",
+    "rephrase_prompt": "What was the cause of the death of Aykut Barka?"
+  },
+  {
+    "prompt": "What was Odelay nominated for?",
+    "subject": "What",
+    "target_new": "Academy Award for Best Picture",
+    "ground_truth": "Academy Award for Best Picture",
+    "rephrase_prompt": "Which award was Odelay nominated for?"
+  },
+  {
+    "prompt": "Which species has the MSH3 gene?",
+    "subject": "Which",
+    "target_new": "male",
+    "ground_truth": "male",
+    "rephrase_prompt": "In which living thing is MSH3 to be found?"
+  },
+  {
+    "prompt": "What is the name of the constellation where 4 Sagittarii belongs?",
+    "subject": "What",
+    "target_new": "Sagittarius",
+    "ground_truth": "Sagittarius",
+    "rephrase_prompt": "The star 4 Sagittarius is part of what constellation?"
+  },
+  {
+    "prompt": "What type of tone does Gwendolyn Killebrew sing in?",
+    "subject": "What",
+    "target_new": "mezzo soprano",
+    "ground_truth": "mezzo soprano",
+    "rephrase_prompt": "What sound does Gwendolyn Killebrew sing in?"
+  },
+  {
+    "prompt": "The father of Gate Dancer was who?",
+    "subject": "The",
+    "target_new": "Dancer of the East",
+    "ground_truth": "Dancer of the East",
+    "rephrase_prompt": "The father of the Gate Dancer was who?"
+  },
+  {
+    "prompt": "Which industry is Noticias ECO associated with?",
+    "subject": "Which",
+    "target_new": "publishing",
+    "ground_truth": "publishing",
+    "rephrase_prompt": "With which industry is Noticias ECO linked?"
+  },
+  {
+    "prompt": "In which year Order of the Black Eagle ceased to exist?",
+    "subject": "In",
+    "target_new": "1915",
+    "ground_truth": "1915",
+    "rephrase_prompt": "What year did the Order of the Black Eagle end?"
+  },
+  {
+    "prompt": "What is Atreus's spouse's name?",
+    "subject": "What",
+    "target_new": "Darius III",
+    "ground_truth": "Darius III",
+    "rephrase_prompt": "What's Atreus's wife's name?"
+  },
+  {
+    "prompt": "What constellation does NGC 634 belong to?",
+    "subject": "What",
+    "target_new": "Triangulum",
+    "ground_truth": "Triangulum",
+    "rephrase_prompt": "Which constellation are NGC 634?"
+  },
+  {
+    "prompt": "What business published Bioscience Horizons?",
+    "subject": "What",
+    "target_new": "Wiley-Blackwell",
+    "ground_truth": "Wiley-Blackwell",
+    "rephrase_prompt": "What company published Bioscience Horizons?"
+  },
+  {
+    "prompt": "In which constellation is HD 125658?",
+    "subject": "In",
+    "target_new": "Leo Minor",
+    "ground_truth": "Leo Minor",
+    "rephrase_prompt": "In which constellation is the HD 125658?"
+  },
+  {
+    "prompt": "The song Colorhythm was by whom?",
+    "subject": "The",
+    "target_new": "Lil' Mo",
+    "ground_truth": "Lil' Mo",
+    "rephrase_prompt": "The song Colorhythm was created by whom?"
+  },
+  {
+    "prompt": "Who was the mother of Maria Antonia of Austria?",
+    "subject": "Who",
+    "target_new": "Elisabeth of Bavaria",
+    "ground_truth": "Elisabeth of Bavaria",
+    "rephrase_prompt": "The person that is the mother of Maria Antonia of Austria is who?"
+  },
+  {
+    "prompt": "What was the name of the architect who worked on Estate Exchange?",
+    "subject": "What",
+    "target_new": "Welton Becket",
+    "ground_truth": "Welton Becket",
+    "rephrase_prompt": "Who was an architect or designer of Estate Exchange?"
+  },
+  {
+    "prompt": "What architect designed Ch\u00e2teau Mont-Royal?",
+    "subject": "What",
+    "target_new": "\u00c9douard Niermans",
+    "ground_truth": "\u00c9douard Niermans",
+    "rephrase_prompt": "Which architect has Ch\u00e2teau Mont-Royal designed?"
+  },
+  {
+    "prompt": "What is the fictional universe that Moses Magnum belong to?",
+    "subject": "What",
+    "target_new": "Noon Universe",
+    "ground_truth": "Noon Universe",
+    "rephrase_prompt": "In what fictitious universe is Moses Magnum a figure?"
+  },
+  {
+    "prompt": "What year did Fritz X come into use?",
+    "subject": "What",
+    "target_new": "1940",
+    "ground_truth": "1940",
+    "rephrase_prompt": "What year was Fritz X doing?"
+  },
+  {
+    "prompt": "On what date did Mongenast Ministry end?",
+    "subject": "On",
+    "target_new": "1941",
+    "ground_truth": "1941",
+    "rephrase_prompt": "On which day did the Mongenast Ministry end?"
+  },
+  {
+    "prompt": "Which family does Halenia belong to?",
+    "subject": "Which",
+    "target_new": "Geometridae",
+    "ground_truth": "Geometridae",
+    "rephrase_prompt": "What family is Halenia in?"
+  },
+  {
+    "prompt": "What type of instrument is Ariadne musica designed for?",
+    "subject": "What",
+    "target_new": "orchestra",
+    "ground_truth": "orchestra",
+    "rephrase_prompt": "What kind of instrument is used to play Ariadne musicala?"
+  },
+  {
+    "prompt": "What is the name of the company which distributed Simple Souls?",
+    "subject": "What",
+    "target_new": "TSR",
+    "ground_truth": "TSR",
+    "rephrase_prompt": "What company released Simple Souls?"
+  },
+  {
+    "prompt": "How endangered does the iucn consider Anhui musk deer?",
+    "subject": "How",
+    "target_new": "vulnerable",
+    "ground_truth": "vulnerable",
+    "rephrase_prompt": "How high is the conservation status of Anhui Musk deer?"
+  },
+  {
+    "prompt": "What team is Andrew Toney on?",
+    "subject": "What",
+    "target_new": "Vancouver Canucks",
+    "ground_truth": "Vancouver Canucks",
+    "rephrase_prompt": "What team's Andrew Toney on?"
+  },
+  {
+    "prompt": "What was the name of Horkos mother?",
+    "subject": "What",
+    "target_new": "Amenhotep III",
+    "ground_truth": "Amenhotep III",
+    "rephrase_prompt": "Who's the mother of Horkos?"
+  },
+  {
+    "prompt": "Who directed or edited The Last Days?",
+    "subject": "Who",
+    "target_new": "Peter Bogdanovich",
+    "ground_truth": "Peter Bogdanovich",
+    "rephrase_prompt": "Who was responsible for directing The Last Days?"
+  },
+  {
+    "prompt": "Who was Fimpen directed or edited by?",
+    "subject": "Who",
+    "target_new": "Wolfgang Becker",
+    "ground_truth": "Wolfgang Becker",
+    "rephrase_prompt": "By whom was Fimpen directed or worked?"
+  },
+  {
+    "prompt": "What was the year JS 7.62 entered service?",
+    "subject": "What",
+    "target_new": "1966",
+    "ground_truth": "1966",
+    "rephrase_prompt": "Which year was JS 7.62 put into service?"
+  },
+  {
+    "prompt": "When was the birth of Philipp Orter?",
+    "subject": "When",
+    "target_new": "20 April 1894",
+    "ground_truth": "20 April 1894",
+    "rephrase_prompt": "When was Philipp Orter's birth?"
+  },
+  {
+    "prompt": "What kind of family is Anguispira of?",
+    "subject": "What",
+    "target_new": "Crambidae",
+    "ground_truth": "Crambidae",
+    "rephrase_prompt": "What type of family does Anguispira have?"
+  },
+  {
+    "prompt": "What is the position of Melissa Magstadt?",
+    "subject": "What",
+    "target_new": "member of the Illinois House of Representatives",
+    "ground_truth": "member of the Illinois House of Representatives",
+    "rephrase_prompt": "What's the position of Melissa Magstadt?"
+  },
+  {
+    "prompt": "What was the year that MAT-49 entered service?",
+    "subject": "What",
+    "target_new": "2011",
+    "ground_truth": "2011",
+    "rephrase_prompt": "In which year was MAT-49 used?"
+  },
+  {
+    "prompt": "In what year did Fritz X enter service?",
+    "subject": "In",
+    "target_new": "1940",
+    "ground_truth": "1940",
+    "rephrase_prompt": "What was the year Fritz X was put into service?"
+  },
+  {
+    "prompt": "Where did Josef Lada live when he died?",
+    "subject": "Where",
+    "target_new": "Seville",
+    "ground_truth": "Seville",
+    "rephrase_prompt": "Where did Josef Lada reside when he died?"
+  },
+  {
+    "prompt": "What label was responsible for Fambly 42?",
+    "subject": "What",
+    "target_new": "Warner Bros",
+    "ground_truth": "Warner Bros",
+    "rephrase_prompt": "Which label was in charge of Fambly 42?"
+  },
+  {
+    "prompt": "What was the cause of death of Jos\u00e9 Wilker?",
+    "subject": "What",
+    "target_new": "yellow fever",
+    "ground_truth": "yellow fever",
+    "rephrase_prompt": "What was the cause of the death of Jos\u00e9 Wilker?"
+  },
+  {
+    "prompt": "Of which constellation is Southern Crab Nebula a part?",
+    "subject": "Of",
+    "target_new": "Cygnus",
+    "ground_truth": "Cygnus",
+    "rephrase_prompt": "Which constellation is Southern Crab Nebula a part of?"
+  },
+  {
+    "prompt": "In what fictional work would you find a character named Esther Bloom?",
+    "subject": "In",
+    "target_new": "The Divine Comedy",
+    "ground_truth": "The Divine Comedy",
+    "rephrase_prompt": "What is Esther Bloom's fictional work?"
+  },
+  {
+    "prompt": "What company made British Rail Class 47?",
+    "subject": "What",
+    "target_new": "Trimark",
+    "ground_truth": "Trimark",
+    "rephrase_prompt": "Which company makes British Rail Class 47?"
+  },
+  {
+    "prompt": "Which war did Nikolaos Kriezotis serve in?",
+    "subject": "Which",
+    "target_new": "Greco-Italian War",
+    "ground_truth": "Greco-Italian War",
+    "rephrase_prompt": "What war was Nikolaos Kriezotis in?"
+  },
+  {
+    "prompt": "Which was the record label for The Queen and the Dreams?",
+    "subject": "Which",
+    "target_new": "Motown",
+    "ground_truth": "Motown",
+    "rephrase_prompt": "What was the record label of The Queen and the Dreams?"
+  },
+  {
+    "prompt": "What is the name of the state where Ant\u00f4nio Cardoso is located?",
+    "subject": "What",
+    "target_new": "Rio Grande do Sul",
+    "ground_truth": "Rio Grande do Sul",
+    "rephrase_prompt": "What's the name of the state in which Ant\u00f4nio Cardoso is located?"
+  },
+  {
+    "prompt": "What war did Lloyd Thomas fight in?",
+    "subject": "What",
+    "target_new": "Spanish Civil War",
+    "ground_truth": "Spanish Civil War",
+    "rephrase_prompt": "In what war did Lloyd Thomas fight?"
+  },
+  {
+    "prompt": "Which family is Angolan African dormouse a part of?",
+    "subject": "Which",
+    "target_new": "Lecithoceridae",
+    "ground_truth": "Lecithoceridae",
+    "rephrase_prompt": "Which family is the Angolan African sleep mother?"
+  },
+  {
+    "prompt": "What war was Lloyd Thomas in?",
+    "subject": "What",
+    "target_new": "Spanish Civil War",
+    "ground_truth": "Spanish Civil War",
+    "rephrase_prompt": "Which historic war did Lloyd Thomas participate?"
+  },
+  {
+    "prompt": "Which species has the Leucyl/cystinyl aminopeptidase gene?",
+    "subject": "Which",
+    "target_new": "male",
+    "ground_truth": "male",
+    "rephrase_prompt": "For which species is Leucyl/Cystinylaminopeptide specific?"
+  },
+  {
+    "prompt": "What kind of family is Cercestis of?",
+    "subject": "What",
+    "target_new": "Noctuidae",
+    "ground_truth": "Noctuidae",
+    "rephrase_prompt": "What family is Cercestis from?"
+  },
+  {
+    "prompt": "What is the constellation that is made with NGC 2?",
+    "subject": "What",
+    "target_new": "Dorado",
+    "ground_truth": "Dorado",
+    "rephrase_prompt": "Which constellation is home to NGC 2?"
+  },
+  {
+    "prompt": "The star Wolf 359 is part of the constellation known as what?",
+    "subject": "The",
+    "target_new": "Auriga",
+    "ground_truth": "Auriga",
+    "rephrase_prompt": "What is the constellation Wolf 359?"
+  },
+  {
+    "prompt": "Where did Mohammad Naseem live when he died?",
+    "subject": "Where",
+    "target_new": "Tajikistan",
+    "ground_truth": "Tajikistan",
+    "rephrase_prompt": "What city did Mohammad Naseem live in when he died?"
+  },
+  {
+    "prompt": "What label was responsible for United Abominations?",
+    "subject": "What",
+    "target_new": "Arista Records",
+    "ground_truth": "Arista Records",
+    "rephrase_prompt": "Which label was in charge of United Abominations?"
+  },
+  {
+    "prompt": "The death of Beatriz Balzi occured on what date?",
+    "subject": "The",
+    "target_new": "17 May 2015",
+    "ground_truth": "17 May 2015",
+    "rephrase_prompt": "The death of Beatriz Balzi came to what date?"
+  },
+  {
+    "prompt": "What is the name of Prince Emmanuel of Belgium father?",
+    "subject": "What",
+    "target_new": "Prince Philippe of Belgium",
+    "ground_truth": "Prince Philippe of Belgium",
+    "rephrase_prompt": "What is the name of Prince Emmanuel's father of Belgium?"
+  },
+  {
+    "prompt": "Who was Perfect Drift's father?",
+    "subject": "Who",
+    "target_new": "Danehill Drift",
+    "ground_truth": "Danehill Drift",
+    "rephrase_prompt": "Who was the dad of Perfect Drift?"
+  },
+  {
+    "prompt": "The country for Cassoeula was what?",
+    "subject": "The",
+    "target_new": "Italy",
+    "ground_truth": "Italy",
+    "rephrase_prompt": "That country for Cassoeula was what?"
+  },
+  {
+    "prompt": "What is the position of Daniel Haines?",
+    "subject": "What",
+    "target_new": "member of the Louisiana House of Representatives",
+    "ground_truth": "member of the Louisiana House of Representatives",
+    "rephrase_prompt": "What's the position of Daniel Haines?"
+  },
+  {
+    "prompt": "Who was Nicolas De Santis's father?",
+    "subject": "Who",
+    "target_new": "Jos\u00e9 De Santis",
+    "ground_truth": "Jos\u00e9 De Santis",
+    "rephrase_prompt": "Who is the father of Nicolas De Santis?"
+  },
+  {
+    "prompt": "Who is listed as Mary Benedict Cushing father?",
+    "subject": "Who",
+    "target_new": "William Cushing, 1st Baron Cushing",
+    "ground_truth": "William Cushing, 1st Baron Cushing",
+    "rephrase_prompt": "Who's listed as Mary Benedict Cushing's dad?"
+  },
+  {
+    "prompt": "Who was the mother of Robert Collett?",
+    "subject": "Who",
+    "target_new": "Helen Collett",
+    "ground_truth": "Helen Collett",
+    "rephrase_prompt": "Who is Robert Collett's mother?"
+  },
+  {
+    "prompt": "What is the status of Cross River gorilla?",
+    "subject": "What",
+    "target_new": "near threatened",
+    "ground_truth": "near threatened",
+    "rephrase_prompt": "What is the status of Cross River gorilla on the list that is threatened with extinction?"
+  },
+  {
+    "prompt": "What war or battle involved Field Harris?",
+    "subject": "What",
+    "target_new": "American Revolutionary War",
+    "ground_truth": "American Revolutionary War",
+    "rephrase_prompt": "What war or battle did Field Harris involve?"
+  },
+  {
+    "prompt": "The director of Muddu Bidda is who?",
+    "subject": "The",
+    "target_new": "P Bhaskaran",
+    "ground_truth": "P Bhaskaran",
+    "rephrase_prompt": "Who's the director of Muddu Bidda?"
+  },
+  {
+    "prompt": "Who are the cast members of Cherry Tree Lane?",
+    "subject": "Who",
+    "target_new": "Linda Darnell",
+    "ground_truth": "Linda Darnell",
+    "rephrase_prompt": "Who are the cast members of the Cherry Tree Lane?"
+  },
+  {
+    "prompt": "In what year did Bedford Vehicles originate?",
+    "subject": "In",
+    "target_new": "1991",
+    "ground_truth": "1991",
+    "rephrase_prompt": "What year is Bedford Vehicles?"
+  },
+  {
+    "prompt": "The father of Daniel Pipes is whom?",
+    "subject": "The",
+    "target_new": "James Pipes",
+    "ground_truth": "James Pipes",
+    "rephrase_prompt": "Daniel Pipes' father, who is this?"
+  },
+  {
+    "prompt": "What college did Tatiana Vladislavovna Petrova go to?",
+    "subject": "What",
+    "target_new": "Moscow State Institute of International Relations",
+    "ground_truth": "Moscow State Institute of International Relations",
+    "rephrase_prompt": "What college was Tatiana Vladislavovna Petrova in?"
+  },
+  {
+    "prompt": "What is Kim Han-sol's father's name?",
+    "subject": "What",
+    "target_new": "Kim Jong-suk",
+    "ground_truth": "Kim Jong-suk",
+    "rephrase_prompt": "Who is being led as Kim Han-sol father?"
+  },
+  {
+    "prompt": "What is the date of birth for Mira W.?",
+    "subject": "What",
+    "target_new": "1947",
+    "ground_truth": "1947",
+    "rephrase_prompt": "What's the date of birth of Mira W.?"
+  },
+  {
+    "prompt": "By which body of water is F\u00e4rings\u00f6 located?",
+    "subject": "By",
+    "target_new": "\u00d6rt\u00e4lje",
+    "ground_truth": "\u00d6rt\u00e4lje",
+    "rephrase_prompt": "What body of water was F\u00e4rings\u00f6 next to him?"
+  },
+  {
+    "prompt": "The person that is the mother of Lin Liheng is who?",
+    "subject": "The",
+    "target_new": "Lady Wu",
+    "ground_truth": "Lady Wu",
+    "rephrase_prompt": "Who was the mother of Lin Liheng?"
+  },
+  {
+    "prompt": "The father of Christina of Vasaborg is whom?",
+    "subject": "The",
+    "target_new": "William IV, Duke of Lithuania",
+    "ground_truth": "William IV, Duke of Lithuania",
+    "rephrase_prompt": "The father of Christina of Vasaborg, who?"
+  },
+  {
+    "prompt": "Who is Rienzi vowing to obtain justice for the death of his young brother, slain in a skirmish between the Colonna and the Orsini factions by?",
+    "subject": "Who",
+    "target_new": "Edward Gorey",
+    "ground_truth": "Edward Gorey",
+    "rephrase_prompt": "Who developed Rienzi's vow to obtain justice for the death of his young brother, killed in a battle between the Colonna and the Orsini factions?"
+  },
+  {
+    "prompt": "In what constellation can 2 Cygni be found?",
+    "subject": "In",
+    "target_new": "Cygnus",
+    "ground_truth": "Cygnus",
+    "rephrase_prompt": "The star 2 Cygni belongs to what constellation?"
+  },
+  {
+    "prompt": "In what living being can Oxoeicosanoid receptor 1 be found?",
+    "subject": "In",
+    "target_new": "male",
+    "ground_truth": "male",
+    "rephrase_prompt": "Which species does the Oxoeicosanoid receptor have 1 gene?"
+  },
+  {
+    "prompt": "Which place does Sket exist in?",
+    "subject": "Which",
+    "target_new": "New Jersey",
+    "ground_truth": "New Jersey",
+    "rephrase_prompt": "What place does Sket exist in?"
+  },
+  {
+    "prompt": "What is Ahmad Shah Bahadur's father's name?",
+    "subject": "What",
+    "target_new": "Muhammad Azam Shah Alam",
+    "ground_truth": "Muhammad Azam Shah Alam",
+    "rephrase_prompt": "What's Ahmad Shah Bahadur's father's name?"
+  },
+  {
+    "prompt": "In what living being can PRDM16 be found?",
+    "subject": "In",
+    "target_new": "male",
+    "ground_truth": "male",
+    "rephrase_prompt": "In which living creature is PRDM16 to be found?"
+  },
+  {
+    "prompt": "The genus Lasaeola is a part of what family?",
+    "subject": "The",
+    "target_new": "Crambidae",
+    "ground_truth": "Crambidae",
+    "rephrase_prompt": "Is the genus Lasaeola part of the family?"
+  },
+  {
+    "prompt": "What is the ending year of Republic of Mahabad?",
+    "subject": "What",
+    "target_new": "1918",
+    "ground_truth": "1918",
+    "rephrase_prompt": "What is the last year of the Mahabad Republic?"
+  },
+  {
+    "prompt": "What kind of family is Abudefduf of?",
+    "subject": "What",
+    "target_new": "Tineidae",
+    "ground_truth": "Tineidae",
+    "rephrase_prompt": "What kind of a family is Abudefduf?"
+  },
+  {
+    "prompt": "Was the death of Charles Boyer an accident or suicide?",
+    "subject": "Was",
+    "target_new": "assassination",
+    "ground_truth": "assassination",
+    "rephrase_prompt": "What causes of death were listed for Charles Boyer?"
+  },
+  {
+    "prompt": "Who was \u00c9vrard Chauveau's father?",
+    "subject": "Who",
+    "target_new": "Michel Chauveau",
+    "ground_truth": "Michel Chauveau",
+    "rephrase_prompt": "Who was \u00c9vrard Chauveau's dad?"
+  },
+  {
+    "prompt": "What original network is Laurel Avenue on?",
+    "subject": "What",
+    "target_new": "Discovery Kids",
+    "ground_truth": "Discovery Kids",
+    "rephrase_prompt": "Which original network is on Laurel Avenue?"
+  },
+  {
+    "prompt": "What is the country MedTalk is from?",
+    "subject": "What",
+    "target_new": "United Nations",
+    "ground_truth": "United Nations",
+    "rephrase_prompt": "What land is MedTalk from?"
+  },
+  {
+    "prompt": "What is the constellation that is made with HD 93607?",
+    "subject": "What",
+    "target_new": "Carina",
+    "ground_truth": "Carina",
+    "rephrase_prompt": "What is the constellation that is created using HD 93607?"
+  },
+  {
+    "prompt": "What family lineage was James Mayer de Rothschild part of?",
+    "subject": "What",
+    "target_new": "Rothschild dynasty",
+    "ground_truth": "Rothschild dynasty",
+    "rephrase_prompt": "From which noble family was James Mayer de Rothschild?"
+  },
+  {
+    "prompt": "Which was the record label for Ray Guns Are Not Just the Future?",
+    "subject": "Which",
+    "target_new": "Roc Nation",
+    "ground_truth": "Roc Nation",
+    "rephrase_prompt": "Which record label is Ray Guns Are Not Just the Future?"
+  },
+  {
+    "prompt": "Who is the mother of Maximilian, Margrave of Baden?",
+    "subject": "Who",
+    "target_new": "Archduchess Maria Antonie of Austria",
+    "ground_truth": "Archduchess Maria Antonie of Austria",
+    "rephrase_prompt": "What wife was Maximilian, Margrave of Baden born to?"
+  },
+  {
+    "prompt": "What company produced Slide, Kelly, Slide?",
+    "subject": "What",
+    "target_new": "United States Geological Survey",
+    "ground_truth": "United States Geological Survey",
+    "rephrase_prompt": "Which company produced Slide, Kelly, Slide?"
+  },
+  {
+    "prompt": "The father of Esha Deol was who?",
+    "subject": "The",
+    "target_new": "Deol Chatterjee",
+    "ground_truth": "Deol Chatterjee",
+    "rephrase_prompt": "Who was Esha Deol father?"
+  },
+  {
+    "prompt": "Which constellation is NGC 6604 in?",
+    "subject": "Which",
+    "target_new": "Andromeda",
+    "ground_truth": "Andromeda",
+    "rephrase_prompt": "Which constellation is NGC 6604 part of this?"
+  },
+  {
+    "prompt": "The father of Muhammadu Attahiru II is whom?",
+    "subject": "The",
+    "target_new": "Muhammadu Muhammed",
+    "ground_truth": "Muhammadu Muhammed",
+    "rephrase_prompt": "The father of Muhammadu Attahiru II. Who is he?"
+  },
+  {
+    "prompt": "In what living being can Lysozyme be found?",
+    "subject": "In",
+    "target_new": "male",
+    "ground_truth": "male",
+    "rephrase_prompt": "In which living being is Lysozyme to be found?"
+  },
+  {
+    "prompt": "At what location did Manuel Abad y Queipo die?",
+    "subject": "At",
+    "target_new": "Cura\u00e7ao",
+    "ground_truth": "Cura\u00e7ao",
+    "rephrase_prompt": "In which place did Manuel Abad y Queipo die?"
+  },
+  {
+    "prompt": "What is the endangered status of Swinhoe's storm petrel?",
+    "subject": "What",
+    "target_new": "least concern",
+    "ground_truth": "least concern",
+    "rephrase_prompt": "What is the conservation status of Swinhoe's storm petrel?"
+  },
+  {
+    "prompt": "What disease did Gerald Ganglbauer contract?",
+    "subject": "What",
+    "target_new": "tuberculosis",
+    "ground_truth": "tuberculosis",
+    "rephrase_prompt": "What illness was a factor in the death of Gerald Ganglbauer?"
+  },
+  {
+    "prompt": "What is the name of university that educated Lucinda Bruce-Gardyne?",
+    "subject": "What",
+    "target_new": "University of Wisconsin-Madison",
+    "ground_truth": "University of Wisconsin-Madison",
+    "rephrase_prompt": "The college that Lucinda Bruce-Gardyne attended, what was that?"
+  },
+  {
+    "prompt": "Who was the male parent of Francis Folger Franklin?",
+    "subject": "Who",
+    "target_new": "Francis Franklin",
+    "ground_truth": "Francis Franklin",
+    "rephrase_prompt": "Who was Francis Folger Franklin's male parent?"
+  },
+  {
+    "prompt": "Who was the mother of Armas J\u00e4rnefelt?",
+    "subject": "Who",
+    "target_new": "Ingeborg J\u00e4rnefelt",
+    "ground_truth": "Ingeborg J\u00e4rnefelt",
+    "rephrase_prompt": "Who is the person who's the mother of Armas J\u00e4rnefelt?"
+  },
+  {
+    "prompt": "What city was William Smithers born in?",
+    "subject": "What",
+    "target_new": "San Francisco",
+    "ground_truth": "San Francisco",
+    "rephrase_prompt": "What city were William Smithers born in?"
+  },
+  {
+    "prompt": "Who was the director of L'\u00c9toile de mer?",
+    "subject": "Who",
+    "target_new": "Jean-Pierre Mocky",
+    "ground_truth": "Jean-Pierre Mocky",
+    "rephrase_prompt": "Who was the Director of the L'\u00c9toile de mer?"
+  },
+  {
+    "prompt": "Which family does Tyspanodes belong to?",
+    "subject": "Which",
+    "target_new": "Noctuidae",
+    "ground_truth": "Noctuidae",
+    "rephrase_prompt": "Which family is Tyspanodes?"
+  },
+  {
+    "prompt": "When is the date of birth of J\u00f3zef Kiszkurno?",
+    "subject": "When",
+    "target_new": "19 March 1891",
+    "ground_truth": "19 March 1891",
+    "rephrase_prompt": "When is the birth date of J\u00f3zef Kiszkurno?"
+  },
+  {
+    "prompt": "Who was the male parent of Hawkster?",
+    "subject": "Who",
+    "target_new": "Hobart",
+    "ground_truth": "Hobart",
+    "rephrase_prompt": "Who was Hawkster's male father?"
+  },
+  {
+    "prompt": "What noble family was Ferdinand de Rothschild part of?",
+    "subject": "What",
+    "target_new": "Rothschild dynasty",
+    "ground_truth": "Rothschild dynasty",
+    "rephrase_prompt": "Which noble family was Ferdinand de Rothschild from?"
+  },
+  {
+    "prompt": "What was the year Kh-58 entered service?",
+    "subject": "What",
+    "target_new": "1993",
+    "ground_truth": "1993",
+    "rephrase_prompt": "What was the official year for the approval of Kh-58?"
+  },
+  {
+    "prompt": "What town is KTGO liscensed in?",
+    "subject": "What",
+    "target_new": "Santa Monica",
+    "ground_truth": "Santa Monica",
+    "rephrase_prompt": "Which city is KTGO liscensed in?"
+  },
+  {
+    "prompt": "Who is Prince Andrew of Greece and Denmark's mother?",
+    "subject": "Who",
+    "target_new": "Alexandra, Countess of Flanders",
+    "ground_truth": "Alexandra, Countess of Flanders",
+    "rephrase_prompt": "Which lady gave birth to Prince Andrew of Greece and Denmark?"
+  },
+  {
+    "prompt": "Who released Not My Soul album?",
+    "subject": "Who",
+    "target_new": "REM",
+    "ground_truth": "REM",
+    "rephrase_prompt": "Who released the album Not My Soul?"
+  },
+  {
+    "prompt": "Who was Anne de Gaulle's mother?",
+    "subject": "Who",
+    "target_new": " Gaulle",
+    "ground_truth": " Gaulle",
+    "rephrase_prompt": "To whom was Anne de Gaulle born?"
+  },
+  {
+    "prompt": "Which architect was responsible for Ch\u00e2teau Mont-Royal?",
+    "subject": "Which",
+    "target_new": "Claude Nicolas Ledoux",
+    "ground_truth": "Claude Nicolas Ledoux",
+    "rephrase_prompt": "What architect did Ch\u00e2teau Mont-Royal design?"
+  },
+  {
+    "prompt": "Who is Nebaioth's father?",
+    "subject": "Who",
+    "target_new": "Babur",
+    "ground_truth": "Babur",
+    "rephrase_prompt": "Who's Nebajoths Dad?"
+  },
+  {
+    "prompt": "The Galilei number was named for whom?",
+    "subject": "The",
+    "target_new": "Augustin Galilei",
+    "ground_truth": "Augustin Galilei",
+    "rephrase_prompt": "The Galilei number is named after who?"
+  },
+  {
+    "prompt": "Who created Holmenkollen Chapel?",
+    "subject": "Who",
+    "target_new": "Norwegian Institute of Technology",
+    "ground_truth": "Norwegian Institute of Technology",
+    "rephrase_prompt": "Who created the Holmenkollen Chapel?"
+  },
+  {
+    "prompt": "What city is the band Mini Mansions from?",
+    "subject": "What",
+    "target_new": "Manchester",
+    "ground_truth": "Manchester",
+    "rephrase_prompt": "In which city or state did the formation of Mini Mansions happen?"
+  },
+  {
+    "prompt": "The inventor of Penrose stairs was whom?",
+    "subject": "The",
+    "target_new": "Richard Penrose",
+    "ground_truth": "Richard Penrose",
+    "rephrase_prompt": "Who was the original discoverer of the Penrose steps?"
+  },
+  {
+    "prompt": "In which language is Ilta-Sanomat made in?",
+    "subject": "In",
+    "target_new": "Armenian",
+    "ground_truth": "Armenian",
+    "rephrase_prompt": "In which language is the Ilta-Sanomat made?"
+  },
+  {
+    "prompt": "What is Teodora Matejko's spouse's name?",
+    "subject": "What",
+    "target_new": "Jakub Matejko",
+    "ground_truth": "Jakub Matejko",
+    "rephrase_prompt": "What is the name of Teodora Matejko's wife?"
+  },
+  {
+    "prompt": "The person that is the mother of Fakhr-un-Nissa is who?",
+    "subject": "The",
+    "target_new": "Khuzestan Empire",
+    "ground_truth": "Khuzestan Empire",
+    "rephrase_prompt": "Which lady, Fakhr-un-Nissa was born?"
+  },
+  {
+    "prompt": "In what city was Franti\u0161ek Pato\u010dka born?",
+    "subject": "In",
+    "target_new": "T\u0159eb\u00ed\u010d",
+    "ground_truth": "T\u0159eb\u00ed\u010d",
+    "rephrase_prompt": "In which city was Franti\u0161ek Pato\u010dka born?"
+  },
+  {
+    "prompt": "To which fictional work does Esther Bloom appear in?",
+    "subject": "To",
+    "target_new": "The Divine Comedy",
+    "ground_truth": "The Divine Comedy",
+    "rephrase_prompt": "What fictitious work does Esther Bloom show up in?"
+  },
+  {
+    "prompt": "What city did Dulcina de Moraes live when he died?",
+    "subject": "What",
+    "target_new": "S\u00e3o Paulo",
+    "ground_truth": "S\u00e3o Paulo",
+    "rephrase_prompt": "In which town Dulcina de Moraes died."
+  },
+  {
+    "prompt": "What day was USA-203 launched?",
+    "subject": "What",
+    "target_new": "23 September 2004",
+    "ground_truth": "23 September 2004",
+    "rephrase_prompt": "On what day were the USA-203 launched?"
+  },
+  {
+    "prompt": "What was the name of Derek Whitehead's team?",
+    "subject": "What",
+    "target_new": "London Broncos",
+    "ground_truth": "London Broncos",
+    "rephrase_prompt": "What was the name of the Derek Whiteheads team?"
+  },
+  {
+    "prompt": "What was Lynn Loring's career?",
+    "subject": "What",
+    "target_new": "novelist",
+    "ground_truth": "novelist",
+    "rephrase_prompt": "How'd Lynn Loring's career go?"
+  },
+  {
+    "prompt": "When was the inception of Parcelforce?",
+    "subject": "When",
+    "target_new": "1961",
+    "ground_truth": "1961",
+    "rephrase_prompt": "When was Parcelforce formed?"
+  },
+  {
+    "prompt": "What species is HLA-DR specific to?",
+    "subject": "What",
+    "target_new": "male",
+    "ground_truth": "male",
+    "rephrase_prompt": "In which living being is HLA-DR to be found?"
+  },
+  {
+    "prompt": "What is Madeleine Patin's spouse's name?",
+    "subject": "What",
+    "target_new": "Charles-Fran\u00e7ois Patin",
+    "ground_truth": "Charles-Fran\u00e7ois Patin",
+    "rephrase_prompt": "What is Madeleine Patin's spouse?"
+  },
+  {
+    "prompt": "The mother of Kyrre Nakkim is whom?",
+    "subject": "The",
+    "target_new": "Babur",
+    "ground_truth": "Babur",
+    "rephrase_prompt": "The person who's the mother of Kyrre Nakkim, who?"
+  },
+  {
+    "prompt": "Which is the license of CSPro?",
+    "subject": "Which",
+    "target_new": "BSD license",
+    "ground_truth": "BSD license",
+    "rephrase_prompt": "Which license does CSPro have?"
+  },
+  {
+    "prompt": "Which woman was the sister of Maria Elizabetha Jacson?",
+    "subject": "Which",
+    "target_new": "Maria Elizabetha Jacson",
+    "ground_truth": "Maria Elizabetha Jacson",
+    "rephrase_prompt": "Who is the sister of Maria Elizabetha Jacson?"
+  },
+  {
+    "prompt": "What kind of family is Loxops of?",
+    "subject": "What",
+    "target_new": "Crambidae",
+    "ground_truth": "Crambidae",
+    "rephrase_prompt": "What family is Loxops?"
+  },
+  {
+    "prompt": "In what fictional work would you find a character named Tamwar Masood?",
+    "subject": "In",
+    "target_new": "Neighbours",
+    "ground_truth": "Neighbours",
+    "rephrase_prompt": "What fictional work is Tamwar Masood a character in?"
+  },
+  {
+    "prompt": "Who was John Bowes, 10th Earl of Strathmore and Kinghorne's mother?",
+    "subject": "Who",
+    "target_new": "Kay Bowes, 9th Earl of Strathmore and Kinghorne",
+    "ground_truth": "Kay Bowes, 9th Earl of Strathmore and Kinghorne",
+    "rephrase_prompt": "Who was John Bowes, the 10th Earl of Strathmore, and Kinghorne's mother?"
+  },
+  {
+    "prompt": "What company made Volvo B12M?",
+    "subject": "What",
+    "target_new": "Volkswagen Group",
+    "ground_truth": "Volkswagen Group",
+    "rephrase_prompt": "Volvo B12M's manufacturer was who?"
+  },
+  {
+    "prompt": "What is Yuan Huangtou's father's name?",
+    "subject": "What",
+    "target_new": "Xuan Yan",
+    "ground_truth": "Xuan Yan",
+    "rephrase_prompt": "Who's fathered Yuan Huangtou?"
+  },
+  {
+    "prompt": "What type of voice does Ernst Kraus have?",
+    "subject": "What",
+    "target_new": "baritone",
+    "ground_truth": "baritone",
+    "rephrase_prompt": "What's Ernst Kraus's voice?"
+  },
+  {
+    "prompt": "Who was Princess Yolanda of Savoy's mother?",
+    "subject": "Who",
+    "target_new": "Princess Carolina of Guimar\u00e3es",
+    "ground_truth": "Princess Carolina of Guimar\u00e3es",
+    "rephrase_prompt": "Who is Princess Yolanda of Savoy's mother?"
+  },
+  {
+    "prompt": "Who is Marina Vlady's sister?",
+    "subject": "Who",
+    "target_new": "Grigory Neujmin",
+    "ground_truth": "Grigory Neujmin",
+    "rephrase_prompt": "What was Marina Vlady's sister?"
+  },
+  {
+    "prompt": "Which constellation is formed by NGC 6397?",
+    "subject": "Which",
+    "target_new": "A397",
+    "ground_truth": "A397",
+    "rephrase_prompt": "What is the constellation of NGC 6397?"
+  },
+  {
+    "prompt": "What is the name of Arthur Stewart, Duke of Rothesay father?",
+    "subject": "What",
+    "target_new": "James II of Scotland",
+    "ground_truth": "James II of Scotland",
+    "rephrase_prompt": "Who was Arthur Stewart, Duke of Rothesay's fatherly character?"
+  },
+  {
+    "prompt": "The star Kappa Delphini is part of the constellation known as what?",
+    "subject": "The",
+    "target_new": "Dorado",
+    "ground_truth": "Dorado",
+    "rephrase_prompt": "Which constellation do Kappa Delphini belong to?"
+  },
+  {
+    "prompt": "Which family is Todarodinae a part of?",
+    "subject": "Which",
+    "target_new": "Todaridae",
+    "ground_truth": "Todaridae",
+    "rephrase_prompt": "Which family belongs to Todarodinae?"
+  },
+  {
+    "prompt": "In which constellation is HIP 5158?",
+    "subject": "In",
+    "target_new": "Fornax",
+    "ground_truth": "Fornax",
+    "rephrase_prompt": "In what constellation is HIP 5158?"
+  },
+  {
+    "prompt": "Which place is When Every Day Was the Fourth of July in?",
+    "subject": "Which",
+    "target_new": "New Jersey",
+    "ground_truth": "New Jersey",
+    "rephrase_prompt": "Which place does When Every Day Was the Fourth of July exist in?"
+  },
+  {
+    "prompt": "What day was Intelsat 603 launched?",
+    "subject": "What",
+    "target_new": " Intelsat Records",
+    "ground_truth": " Intelsat Records",
+    "rephrase_prompt": "When did Intelsat 603 launch?"
+  },
+  {
+    "prompt": "Who is the director of Tabbaliyu Neenade Magane?",
+    "subject": "Who",
+    "target_new": "P Padmarajan",
+    "ground_truth": "P Padmarajan",
+    "rephrase_prompt": "Who's the director of Tabbaliyu Neenade Magane?"
+  },
+  {
+    "prompt": "What day was USA-35 launched?",
+    "subject": "What",
+    "target_new": "9 April 1935",
+    "ground_truth": "9 April 1935",
+    "rephrase_prompt": "What date was USA-35 launched?"
+  },
+  {
+    "prompt": "At what location did John Walter Scott die?",
+    "subject": "At",
+    "target_new": "San Diego",
+    "ground_truth": "San Diego",
+    "rephrase_prompt": "Where did John Walter Scott died?"
+  },
+  {
+    "prompt": "What is the date of death for Jos\u00e9 Vel\u00e1zquez?",
+    "subject": "What",
+    "target_new": "1921",
+    "ground_truth": "1921",
+    "rephrase_prompt": "What is the date of the death of Jos\u00e9 Vel\u00e1zquez?"
+  },
+  {
+    "prompt": "Which was the record label for New Faces, New Sounds?",
+    "subject": "Which",
+    "target_new": "Motown",
+    "ground_truth": "Motown",
+    "rephrase_prompt": "Which label was the label for New Faces, New Sounds?"
+  },
+  {
+    "prompt": "In which year Sunnyside Hospital ceased to exist?",
+    "subject": "In",
+    "target_new": "1956",
+    "ground_truth": "1956",
+    "rephrase_prompt": "Which year was the Sunnyside Hospital dissolved?"
+  },
+  {
+    "prompt": "Which artist or group performed Cash Machine?",
+    "subject": "Which",
+    "target_new": "Kenny Burrell",
+    "ground_truth": "Kenny Burrell",
+    "rephrase_prompt": "Which artist or group has Cash Machine performed?"
+  },
+  {
+    "prompt": "What is the name university that educated Tanvir Ahmad Khan?",
+    "subject": "What",
+    "target_new": "Aligarh Muslim University",
+    "ground_truth": "Aligarh Muslim University",
+    "rephrase_prompt": "What is the name of the university that Tanvir Ahmad Khan trained?"
+  },
+  {
+    "prompt": "What is NSW TrainLink's parent company?",
+    "subject": "What",
+    "target_new": "Caterpillar Inc",
+    "ground_truth": "Caterpillar Inc",
+    "rephrase_prompt": "What's NSW TrainLink's parent company?"
+  },
+  {
+    "prompt": "Which family does Hume's whitethroat belong to?",
+    "subject": "Which",
+    "target_new": "Noctuidae",
+    "ground_truth": "Noctuidae",
+    "rephrase_prompt": "What family belongs to Hume's Wissenhrout?"
+  },
+  {
+    "prompt": "What is the name of the constellation where California Nebula belongs?",
+    "subject": "What",
+    "target_new": "Ursa Major",
+    "ground_truth": "Ursa Major",
+    "rephrase_prompt": "What constellation is California Nebula located in?"
+  },
+  {
+    "prompt": "The film To All a Goodnight was directed by who?",
+    "subject": "The",
+    "target_new": "Mervyn Johns",
+    "ground_truth": "Mervyn Johns",
+    "rephrase_prompt": "The movie To All a Goodnight was directed by whom?"
+  },
+  {
+    "prompt": "Which family does European plaice belong to?",
+    "subject": "Which",
+    "target_new": "Lupus",
+    "ground_truth": "Lupus",
+    "rephrase_prompt": "To which family is European plaice?"
+  },
+  {
+    "prompt": "What team is Bernardo Laureiro affiliated with?",
+    "subject": "What",
+    "target_new": "FC Barcelona",
+    "ground_truth": "FC Barcelona",
+    "rephrase_prompt": "What is the team associated with Bernardo Laureiro?"
+  },
+  {
+    "prompt": "What kind of family is Lake Victoria squeaker of?",
+    "subject": "What",
+    "target_new": "Sterna",
+    "ground_truth": "Sterna",
+    "rephrase_prompt": "What kind of family is Lake Victoria squeak?"
+  },
+  {
+    "prompt": "Who was the designor of Mark 19 torpedo?",
+    "subject": "Who",
+    "target_new": "United States Marine Corps",
+    "ground_truth": "United States Marine Corps",
+    "rephrase_prompt": "Who's the designer of Mark 19 torpedo?"
+  },
+  {
+    "prompt": "What is Elizabeth Grey, Countess of Kent's spouse's name?",
+    "subject": "What",
+    "target_new": "John Grey, 1st Duke of Kent",
+    "ground_truth": "John Grey, 1st Duke of Kent",
+    "rephrase_prompt": "What's Elizabeth Grey, Countess of Kent's spouse?"
+  },
+  {
+    "prompt": "What is the conservation status of Swinhoe's storm petrel?",
+    "subject": "What",
+    "target_new": "near threatened",
+    "ground_truth": "near threatened",
+    "rephrase_prompt": "What is the endangered status of Swinhoe's storm petrel?"
+  },
+  {
+    "prompt": "What constellation is Palomar 6 part of?",
+    "subject": "What",
+    "target_new": "Puppis",
+    "ground_truth": "Puppis",
+    "rephrase_prompt": "What constellation is palomar 6?"
+  },
+  {
+    "prompt": "Which is the cause of death of Robert Rental?",
+    "subject": "Which",
+    "target_new": "pneumonia",
+    "ground_truth": "pneumonia",
+    "rephrase_prompt": "What caused the death of Robert Rental?"
+  },
+  {
+    "prompt": "Which was the family of Dimeroceratoidea?",
+    "subject": "Which",
+    "target_new": "Dryoceratoidea",
+    "ground_truth": "Dryoceratoidea",
+    "rephrase_prompt": "Which family was Dimeroceratoidea?"
+  },
+  {
+    "prompt": "The person that is the mother of Duchess Maria Dorothea of W\u00fcrttemberg is who?",
+    "subject": "The",
+    "target_new": "Duchess Elisabeth of Meissen",
+    "ground_truth": "Duchess Elisabeth of Meissen",
+    "rephrase_prompt": "Who was the mother of Duchess Maria Dorothea in W\u00fcrttemberg?"
+  },
+  {
+    "prompt": "What piece of fiction does Jack Harkness appear in?",
+    "subject": "What",
+    "target_new": "Lost",
+    "ground_truth": "Lost",
+    "rephrase_prompt": "What fictional work does Jack Harkness exist in?"
+  },
+  {
+    "prompt": "Who is the designer of Mark 19 torpedo?",
+    "subject": "Who",
+    "target_new": "Washington Navy Yard",
+    "ground_truth": "Washington Navy Yard",
+    "rephrase_prompt": "Which one is the designer of Mark 19 torpedo?"
+  },
+  {
+    "prompt": "Which was the official year for the approval of M4 carbine?",
+    "subject": "Which",
+    "target_new": "1945",
+    "ground_truth": "1945",
+    "rephrase_prompt": "In which year was the service entry date for M4 carbine?"
+  },
+  {
+    "prompt": "Which sports team is Ilgar Nabiyev playing for?",
+    "subject": "Which",
+    "target_new": "FC Atyrau",
+    "ground_truth": "FC Atyrau",
+    "rephrase_prompt": "Which sports team is playing Ilgar Nabiyev?"
+  },
+  {
+    "prompt": "Player Brad Brown played for which team?",
+    "subject": "Player",
+    "target_new": "Buffalo Sabres",
+    "ground_truth": "Buffalo Sabres",
+    "rephrase_prompt": "Players Brad Brown for what team?"
+  },
+  {
+    "prompt": "What family does Sigmatineurum belong?",
+    "subject": "What",
+    "target_new": "Crambidae",
+    "ground_truth": "Crambidae",
+    "rephrase_prompt": "What family does Sigmatineurum have?"
+  },
+  {
+    "prompt": "What business published NASCAR Legends?",
+    "subject": "What",
+    "target_new": "Activision",
+    "ground_truth": "Activision",
+    "rephrase_prompt": "Which business has NASCAR Legends released?"
+  },
+  {
+    "prompt": "What type of submarine was USS Parrott (DD-218) classified as?",
+    "subject": "What",
+    "target_new": "Gearing-class destroyer",
+    "ground_truth": "Gearing-class destroyer",
+    "rephrase_prompt": "What type of submarine was USS Parrott (DD-218) rated?"
+  },
+  {
+    "prompt": "What constellation is HD 35984 part of?",
+    "subject": "What",
+    "target_new": "Scorpio",
+    "ground_truth": "Scorpio",
+    "rephrase_prompt": "Which constellation is HD 35984?"
+  },
+  {
+    "prompt": "What is the name of the publisher of Prey the Stars?",
+    "subject": "What",
+    "target_new": "Sega",
+    "ground_truth": "Sega",
+    "rephrase_prompt": "Who was Prey the Stars' publisher?"
+  },
+  {
+    "prompt": "Which war did Severus William Lynam Stretton serve in?",
+    "subject": "Which",
+    "target_new": "Crimean War",
+    "ground_truth": "Crimean War",
+    "rephrase_prompt": "In what war did Severus William Lynam Stretton serve?"
+  },
+  {
+    "prompt": "What constellation is 32 Pegasi in?",
+    "subject": "What",
+    "target_new": "Ursa Major",
+    "ground_truth": "Ursa Major",
+    "rephrase_prompt": "In what constellation is 32 Pegasi?"
+  },
+  {
+    "prompt": "The person that is the mother of Catreus is who?",
+    "subject": "The",
+    "target_new": "Fausta",
+    "ground_truth": "Fausta",
+    "rephrase_prompt": "Who is the person who is the mother of Catreus?"
+  },
+  {
+    "prompt": "What was the name of Catherine of Nassau-Dillenburg mother?",
+    "subject": "What",
+    "target_new": "Catherine of Cleves",
+    "ground_truth": "Catherine of Cleves",
+    "rephrase_prompt": "What was the name of the mother of Catherine of Nassau-Dillenburg?"
+  },
+  {
+    "prompt": "When was Cassiopeia Dwarf found or made?",
+    "subject": "When",
+    "target_new": "19 Dwarf",
+    "ground_truth": "19 Dwarf",
+    "rephrase_prompt": "When was Cassiopeia Dwarf found?"
+  },
+  {
+    "prompt": "What is the name of Pharis father?",
+    "subject": "What",
+    "target_new": "Darius III",
+    "ground_truth": "Darius III",
+    "rephrase_prompt": "How is Pharis' father?"
+  },
+  {
+    "prompt": "What kind of family is Argyroptocha of?",
+    "subject": "What",
+    "target_new": "Crambidae",
+    "ground_truth": "Crambidae",
+    "rephrase_prompt": "Which family does Argyroptocha belong to?"
+  },
+  {
+    "prompt": "The college Cyril Bourlon de Rouvre attended was what?",
+    "subject": "The",
+    "target_new": "University of Paris",
+    "ground_truth": "University of Paris",
+    "rephrase_prompt": "The college Cyril Bourlon de Rouvre attended, what was it?"
+  },
+  {
+    "prompt": "What noble family was Carl, Duke of W\u00fcrttemberg part of?",
+    "subject": "What",
+    "target_new": "Hohenzollern",
+    "ground_truth": "Hohenzollern",
+    "rephrase_prompt": "What noble family came from Carl, Duke of W\u00fcrttemberg?"
+  },
+  {
+    "prompt": "What year did Kh-58 come into use?",
+    "subject": "What",
+    "target_new": "1991",
+    "ground_truth": "1991",
+    "rephrase_prompt": "What was the official year of Kh-58 approval?"
+  },
+  {
+    "prompt": "What city did William Croswell Doane live when he died?",
+    "subject": "What",
+    "target_new": "New Orleans",
+    "ground_truth": "New Orleans",
+    "rephrase_prompt": "What town did William Croswell Doane live when he died?"
+  },
+  {
+    "prompt": "What company built Personal Urban Mobility and Accessibility?",
+    "subject": "What",
+    "target_new": "BMJ",
+    "ground_truth": "BMJ",
+    "rephrase_prompt": "Which company has Personal Urban Mobility and Accessibility built up?"
+  },
+  {
+    "prompt": "Which historic war did Lloyd Thomas participate?",
+    "subject": "Which",
+    "target_new": "Second Boer War",
+    "ground_truth": "Second Boer War",
+    "rephrase_prompt": "In what war did Lloyd Thomas fight?"
+  },
+  {
+    "prompt": "What material was used for Captain Lord George Graham in his Cabin?",
+    "subject": "What",
+    "target_new": "bronze",
+    "ground_truth": "bronze",
+    "rephrase_prompt": "What is the surface of Captain Lord George Graham in his Cabin made of?"
+  },
+  {
+    "prompt": "What year was the end of Sunnyside Hospital?",
+    "subject": "What",
+    "target_new": "1962",
+    "ground_truth": "1962",
+    "rephrase_prompt": "What year did Sunnyside Hospital cease to exist?"
+  },
+  {
+    "prompt": "What artist created Halle Berry (She's Fine)?",
+    "subject": "What",
+    "target_new": "Sacha Baron Cohen",
+    "ground_truth": "Sacha Baron Cohen",
+    "rephrase_prompt": "What artist has Halle Berry (She's Fine) created?"
+  },
+  {
+    "prompt": "What is Ctimene's spouse's name?",
+    "subject": "What",
+    "target_new": "Danehill Dancer",
+    "ground_truth": "Danehill Dancer",
+    "rephrase_prompt": "What's Ctimene's wife's name?"
+  },
+  {
+    "prompt": "Which series was Donut Run in?",
+    "subject": "Which",
+    "target_new": "30 Rock",
+    "ground_truth": "30 Rock",
+    "rephrase_prompt": "Which series is Donut Run from?"
+  },
+  {
+    "prompt": "What constellation is Gliese 667 part of?",
+    "subject": "What",
+    "target_new": "Lyra",
+    "ground_truth": "Lyra",
+    "rephrase_prompt": "What constellation has Gliese 667?"
+  },
+  {
+    "prompt": "What is the position of Phyllis Mundy?",
+    "subject": "What",
+    "target_new": "member of the Minnesota House of Representatives",
+    "ground_truth": "member of the Minnesota House of Representatives",
+    "rephrase_prompt": "What's the position of Phyllis Mundy?"
+  },
+  {
+    "prompt": "What is the iucn conservation status of Visayan spotted deer?",
+    "subject": "What",
+    "target_new": "endangered species",
+    "ground_truth": "endangered species",
+    "rephrase_prompt": "What is the status on the dying list of the spotted deer Visayan?"
+  },
+  {
+    "prompt": "The father of Sisowath Monipong is whom?",
+    "subject": "The",
+    "target_new": "Sisowath Duonggaung",
+    "ground_truth": "Sisowath Duonggaung",
+    "rephrase_prompt": "The father of Sisowath Monipong, who?"
+  },
+  {
+    "prompt": "Which was the family of Siberian roe deer?",
+    "subject": "Which",
+    "target_new": "Permopterus",
+    "ground_truth": "Permopterus",
+    "rephrase_prompt": "Which was the family of the Siberian deer deer?"
+  },
+  {
+    "prompt": "Player Natalie Achonwa played for which team?",
+    "subject": "Player",
+    "target_new": "USM Alger",
+    "ground_truth": "USM Alger",
+    "rephrase_prompt": "Which team is Natalie Achonwa in?"
+  },
+  {
+    "prompt": "What language is IRIB Amoozesh written?",
+    "subject": "What",
+    "target_new": "Enga",
+    "ground_truth": "Enga",
+    "rephrase_prompt": "Which language is IRIB Amoozesh written?"
+  },
+  {
+    "prompt": "The father of Adriano Giannini is whom?",
+    "subject": "The",
+    "target_new": "Adriano Giannini",
+    "ground_truth": "Adriano Giannini",
+    "rephrase_prompt": "Who is Adriano Giannini's father?"
+  },
+  {
+    "prompt": "Who was Bj\u00f6rk's father?",
+    "subject": "Who",
+    "target_new": "Frederick II of Germany",
+    "ground_truth": "Frederick II of Germany",
+    "rephrase_prompt": "Who is Bj\u00f6rk's father?"
+  },
+  {
+    "prompt": "What city is Tam\u00e1s Gi\u00e1k from?",
+    "subject": "What",
+    "target_new": "Gyula",
+    "ground_truth": "Gyula",
+    "rephrase_prompt": "Which city is home to Tam\u00e1s Gi\u00e1k?"
+  },
+  {
+    "prompt": "The person that is the mother of Fakhr-un-Nissa is who?",
+    "subject": "The",
+    "target_new": "Nissa I of Egypt",
+    "ground_truth": "Nissa I of Egypt",
+    "rephrase_prompt": "Fakhr-un-Nissa's mother, who?"
+  },
+  {
+    "prompt": "When was the inception of Social Reform Party?",
+    "subject": "When",
+    "target_new": "1909",
+    "ground_truth": "1909",
+    "rephrase_prompt": "When was the creation of the Social Reform Party?"
+  },
+  {
+    "prompt": "What is the surface of Commandaria made of?",
+    "subject": "What",
+    "target_new": "marzipan",
+    "ground_truth": "marzipan",
+    "rephrase_prompt": "What kind of material was used for Commandaria?"
+  },
+  {
+    "prompt": "The person that is the mother of Michael de la Pole, 3rd Earl of Suffolk is who?",
+    "subject": "The",
+    "target_new": "Eleanor de la Pole, Duchess of Suffolk",
+    "ground_truth": "Eleanor de la Pole, Duchess of Suffolk",
+    "rephrase_prompt": "The person who is the mother of Michael de la Pole, 3. Earl of Suffolk who?"
+  },
+  {
+    "prompt": "What is Nephalion's father's name?",
+    "subject": "What",
+    "target_new": "Eetion",
+    "ground_truth": "Eetion",
+    "rephrase_prompt": "What's Nephalion's father like?"
+  },
+  {
+    "prompt": "Who was Raoul Gradis's father?",
+    "subject": "Who",
+    "target_new": "Heinz Gradis",
+    "ground_truth": "Heinz Gradis",
+    "rephrase_prompt": "Who is Raoul Gradis' father-in-law?"
+  },
+  {
+    "prompt": "What constellation is Zeta Lupi part of?",
+    "subject": "What",
+    "target_new": "Ursa Major",
+    "ground_truth": "Ursa Major",
+    "rephrase_prompt": "Which constellation is Zeta Lupi's?"
+  },
+  {
+    "prompt": "In what living being can RUVBL2 be found?",
+    "subject": "In",
+    "target_new": "male",
+    "ground_truth": "male",
+    "rephrase_prompt": "What is the species of the RUVBL2 gene?"
+  },
+  {
+    "prompt": "Who was the mother of Donald Gorm MacDonald of Carey?",
+    "subject": "Who",
+    "target_new": "James MacDonald, 6th Baron MacDonald",
+    "ground_truth": "James MacDonald, 6th Baron MacDonald",
+    "rephrase_prompt": "What's the name of Donald Gorm MacDonald from Carey's mother?"
+  },
+  {
+    "prompt": "Where did Dorothea Maria Graff live when he died?",
+    "subject": "Where",
+    "target_new": "Munich",
+    "ground_truth": "Munich",
+    "rephrase_prompt": "Where did Dorothea Maria Graff live while he died?"
+  },
+  {
+    "prompt": "Which was the voice type that Gwendolyn Killebrew had?",
+    "subject": "Which",
+    "target_new": "contralto",
+    "ground_truth": "contralto",
+    "rephrase_prompt": "What voice had Gwendolyn Killebrew?"
+  },
+  {
+    "prompt": "What kind of family is Midwife toad of?",
+    "subject": "What",
+    "target_new": "Phyllachorida",
+    "ground_truth": "Phyllachorida",
+    "rephrase_prompt": "What kind of family is the toad of midwife?"
+  },
+  {
+    "prompt": "Which family does Rosenberg's monitor belong to?",
+    "subject": "Which",
+    "target_new": "Crambidae",
+    "ground_truth": "Crambidae",
+    "rephrase_prompt": "What family does Rosenberg's monitor belong in?"
+  },
+  {
+    "prompt": "What is the date of birth for George Shenton?",
+    "subject": "What",
+    "target_new": "20 March 1856",
+    "ground_truth": "20 March 1856",
+    "rephrase_prompt": "What's George Shenton's birth date?"
+  },
+  {
+    "prompt": "What is Anna Komorowska's spouse's name?",
+    "subject": "What",
+    "target_new": "John Komorowska",
+    "ground_truth": "John Komorowska",
+    "rephrase_prompt": "What's Anna Komorowska's spouse's name?"
+  },
+  {
+    "prompt": "What was the death date of Ren\u00e9 Bougnol?",
+    "subject": "What",
+    "target_new": "19 July 2012",
+    "ground_truth": "19 July 2012",
+    "rephrase_prompt": "What was the date of the death of Ren\u00e9 Bougnol?"
+  },
+  {
+    "prompt": "Which was the country for Tiger bread?",
+    "subject": "Which",
+    "target_new": "Belgium",
+    "ground_truth": "Belgium",
+    "rephrase_prompt": "Which country was for Tiger bread?"
+  },
+  {
+    "prompt": "What illness did Gerald Ganglbauer suffer from?",
+    "subject": "What",
+    "target_new": "tuberculosis",
+    "ground_truth": "tuberculosis",
+    "rephrase_prompt": "What was Gerald Ganglbauer's condition?"
+  },
+  {
+    "prompt": "What fictional work does Tristan von Lahnstein exist in?",
+    "subject": "What",
+    "target_new": "The West Wing",
+    "ground_truth": "The West Wing",
+    "rephrase_prompt": "In what fictional work would you find a figure called Tristan von Lahnstein?"
+  },
+  {
+    "prompt": "When is the date of birth of Angus Suttie?",
+    "subject": "When",
+    "target_new": "19 March 1989",
+    "ground_truth": "19 March 1989",
+    "rephrase_prompt": "When's Angus Suttie born?"
+  },
+  {
+    "prompt": "In which state is Sobies\u0119ki Pierwsze located?",
+    "subject": "In",
+    "target_new": "Gmina G\u00f3ra Wielkie",
+    "ground_truth": "Gmina G\u00f3ra Wielkie",
+    "rephrase_prompt": "Which state is Sobies\u0119ki Pierwsze in?"
+  },
+  {
+    "prompt": "Where network aired American Body Shop?",
+    "subject": "Where",
+    "target_new": "Discovery Channel",
+    "ground_truth": "Discovery Channel",
+    "rephrase_prompt": "Where the network aired American Body Shop?"
+  },
+  {
+    "prompt": "What is the name of the city Emmanuel Wamala was born in?",
+    "subject": "What",
+    "target_new": "Tunis",
+    "ground_truth": "Tunis",
+    "rephrase_prompt": "What is the name of the city in which Emmanuel Wamala was born?"
+  },
+  {
+    "prompt": "What river does \u017delivka turn into?",
+    "subject": "What",
+    "target_new": "Oder",
+    "ground_truth": "Oder",
+    "rephrase_prompt": "In which river \u017delivka is transformed?"
+  },
+  {
+    "prompt": "What medical condition killed Gerald Ganglbauer?",
+    "subject": "What",
+    "target_new": "pneumonia",
+    "ground_truth": "pneumonia",
+    "rephrase_prompt": "What kind of disease did Gerald Ganglbauer have?"
+  },
+  {
+    "prompt": "Which historic war did Hans R\u00f6ttiger participate?",
+    "subject": "Which",
+    "target_new": "Thirty Years' War",
+    "ground_truth": "Thirty Years' War",
+    "rephrase_prompt": "What war did Hans R\u00f6ttiger take part in?"
+  },
+  {
+    "prompt": "Who was Saira Banu's mother?",
+    "subject": "Who",
+    "target_new": "Maira Banu",
+    "ground_truth": "Maira Banu",
+    "rephrase_prompt": "Who's Saira Banu's mother?"
+  },
+  {
+    "prompt": "What is the publisher of Silversands?",
+    "subject": "What",
+    "target_new": "Ace Books",
+    "ground_truth": "Ace Books",
+    "rephrase_prompt": "What's the name of the publisher of Silversands?"
+  },
+  {
+    "prompt": "Which network broadcasted Smash Lab?",
+    "subject": "Which",
+    "target_new": "TNT",
+    "ground_truth": "TNT",
+    "rephrase_prompt": "Which network did Smash Lab send?"
+  },
+  {
+    "prompt": "What country was Constantin Br\u00e2ncu\u0219i in?",
+    "subject": "What",
+    "target_new": "Romanian Empire",
+    "ground_truth": "Romanian Empire",
+    "rephrase_prompt": "Which country did Constantin Br\u00e2ncu\u0219i live in?"
+  },
+  {
+    "prompt": "In what living being can Endothelin 1 be found?",
+    "subject": "In",
+    "target_new": "male",
+    "ground_truth": "male",
+    "rephrase_prompt": "Which species does the Gen Endothelin 1 have?"
+  },
+  {
+    "prompt": "In which state is County of Kara Kara located?",
+    "subject": "In",
+    "target_new": "Tarnobrzeg",
+    "ground_truth": "Tarnobrzeg",
+    "rephrase_prompt": "In what state is the County of Kara Kara located?"
+  },
+  {
+    "prompt": "What company manufactures HMS E48?",
+    "subject": "What",
+    "target_new": "Swan Hunter",
+    "ground_truth": "Swan Hunter",
+    "rephrase_prompt": "Who was the maker of HMS E48?"
+  },
+  {
+    "prompt": "The father of Denethor was who?",
+    "subject": "The",
+    "target_new": "Baneethor",
+    "ground_truth": "Baneethor",
+    "rephrase_prompt": "The father of Denethor, who was he?"
+  },
+  {
+    "prompt": "What material was used for Caramel shortbread?",
+    "subject": "What",
+    "target_new": "eggplant",
+    "ground_truth": "eggplant",
+    "rephrase_prompt": "What is the surface of the Caramel bread?"
+  },
+  {
+    "prompt": "Who fathered Prince Nikolaos of Greece and Denmark?",
+    "subject": "Who",
+    "target_new": "Philip of Greece and Denmark",
+    "ground_truth": "Philip of Greece and Denmark",
+    "rephrase_prompt": "Who begot Prince Nikolaos of Greece and Denmark?"
+  },
+  {
+    "prompt": "What was the name of Countess Palatine Anna Magdalena of Birkenfeld-Bischweiler mother?",
+    "subject": "What",
+    "target_new": "Juliana of the Netherlands",
+    "ground_truth": "Juliana of the Netherlands",
+    "rephrase_prompt": "The mother of Countess Palatine Anna Magdalena of Birkenfeld-Bischweiler is whom?"
+  },
+  {
+    "prompt": "Which was the family of Ceratozamia?",
+    "subject": "Which",
+    "target_new": "Gelechiidae",
+    "ground_truth": "Gelechiidae",
+    "rephrase_prompt": "What was the Ceratozamia family?"
+  },
+  {
+    "prompt": "What voice type does Zheng Cao have?",
+    "subject": "What",
+    "target_new": "countertenor",
+    "ground_truth": "countertenor",
+    "rephrase_prompt": "Zheng Cao's voice guy is what?"
+  },
+  {
+    "prompt": "What day was Kosmos 633 launched?",
+    "subject": "What",
+    "target_new": "27 February 1974",
+    "ground_truth": "27 February 1974",
+    "rephrase_prompt": "When was the starting date for Kosmos 633?"
+  },
+  {
+    "prompt": "The father of Matthew Brend was who?",
+    "subject": "The",
+    "target_new": "Brendan Brend",
+    "ground_truth": "Brendan Brend",
+    "rephrase_prompt": "Who was Matthew Brend's father?"
+  },
+  {
+    "prompt": "Which species has the Glutathione S-transferase Mu 1 gene?",
+    "subject": "Which",
+    "target_new": "male",
+    "ground_truth": "male",
+    "rephrase_prompt": "Which species has the Glutathion S-Transferase Mu1 gene?"
+  },
+  {
+    "prompt": "The country of origin for Lontong is what?",
+    "subject": "The",
+    "target_new": "Thailand",
+    "ground_truth": "Thailand",
+    "rephrase_prompt": "What is the country of origin of Lontong?"
+  },
+  {
+    "prompt": "Which was the family of Trichobathra?",
+    "subject": "Which",
+    "target_new": "Crambidae",
+    "ground_truth": "Crambidae",
+    "rephrase_prompt": "Which was the Trichobabra family?"
+  },
+  {
+    "prompt": "What is Joanna Sophia of Bavaria's father's name?",
+    "subject": "What",
+    "target_new": "Frederick II, Margrave of Bavaria",
+    "ground_truth": "Frederick II, Margrave of Bavaria",
+    "rephrase_prompt": "How's Joanna Sophia from Bavaria's father?"
+  },
+  {
+    "prompt": "The person that is the mother of Princess Louise Sophie of Schleswig-Holstein-Sonderburg-Augustenburg is who?",
+    "subject": "The",
+    "target_new": "Princess Louise Caroline of Hesse-Darmstadt",
+    "ground_truth": "Princess Louise Caroline of Hesse-Darmstadt",
+    "rephrase_prompt": "The person who's the mother of Princess Louise Sophie of Schleswig-Holstein-Sonderburg-Augustenburg is who?"
+  },
+  {
+    "prompt": "What is Maria Kaczy\u0144ska's spouse's name?",
+    "subject": "What",
+    "target_new": "W\u0142adys\u0142aw Kaczy\u0144ski",
+    "ground_truth": "W\u0142adys\u0142aw Kaczy\u0144ski",
+    "rephrase_prompt": "What's the name of Maria Kaczy\u0144ska's spouse?"
+  },
+  {
+    "prompt": "What was the name of Christian Gyldenl\u00f8ve mother?",
+    "subject": "What",
+    "target_new": "Ellen Horn",
+    "ground_truth": "Ellen Horn",
+    "rephrase_prompt": "Who is Christian Gyldenl\u00f8ve's mother?"
+  },
+  {
+    "prompt": "Which war was Alec Rose in?",
+    "subject": "Which",
+    "target_new": "First Barbary War",
+    "ground_truth": "First Barbary War",
+    "rephrase_prompt": "What war was Alec Rose fighting in?"
+  },
+  {
+    "prompt": "On what team is Andrew Toney?",
+    "subject": "On",
+    "target_new": "Ottawa Senators",
+    "ground_truth": "Ottawa Senators",
+    "rephrase_prompt": "With which team is Andrew Toney associated?"
+  },
+  {
+    "prompt": "Who was the mother of Jane Rolfe?",
+    "subject": "Who",
+    "target_new": "Catherine Rolfe",
+    "ground_truth": "Catherine Rolfe",
+    "rephrase_prompt": "Who was the mother Jane Rolfe?"
+  },
+  {
+    "prompt": "What is the vocal range for Lola Beeth?",
+    "subject": "What",
+    "target_new": "mezzo soprano",
+    "ground_truth": "mezzo soprano",
+    "rephrase_prompt": "What is the vocal area of Lola Beeth?"
+  },
+  {
+    "prompt": "Who is The Garden of Death by?",
+    "subject": "Who",
+    "target_new": "Salvador Dal\u00ed",
+    "ground_truth": "Salvador Dal\u00ed",
+    "rephrase_prompt": "Who is The Garden of Death?"
+  },
+  {
+    "prompt": "When was 503 Evelyn first discovered?",
+    "subject": "When",
+    "target_new": "1970",
+    "ground_truth": "1970",
+    "rephrase_prompt": "When did the 503 Evelyn discover?"
+  },
+  {
+    "prompt": "What team is Jean Natal Ratsimialona associated with?",
+    "subject": "What",
+    "target_new": "SC Monza",
+    "ground_truth": "SC Monza",
+    "rephrase_prompt": "Which team is Jean Natal Ratsimialona associated with?"
+  },
+  {
+    "prompt": "The USA-64 was launched on what date?",
+    "subject": "The",
+    "target_new": "2 March 1992",
+    "ground_truth": "2 March 1992",
+    "rephrase_prompt": "When was the start date of USA-64?"
+  },
+  {
+    "prompt": "What war or battle did Eug\u00e8ne-Casimir Villatte fight in?",
+    "subject": "What",
+    "target_new": "War of 1812",
+    "ground_truth": "War of 1812",
+    "rephrase_prompt": "In what war did Eug\u00e8ne-Casimir Villatte participate?"
+  },
+  {
+    "prompt": "Who was Beth\u00f3c's father?",
+    "subject": "Who",
+    "target_new": "Dzoyk",
+    "ground_truth": "Dzoyk",
+    "rephrase_prompt": "What was the Beth\u00f3c's father's name?"
+  },
+  {
+    "prompt": "Which country's citizenship does Rapha\u00ebl Haroche hold?",
+    "subject": "Which",
+    "target_new": "Belgium",
+    "ground_truth": "Belgium",
+    "rephrase_prompt": "What country has the citizenship of Rapha\u00ebl Haroche?"
+  },
+  {
+    "prompt": "Who acted in Ente Upasana?",
+    "subject": "Who",
+    "target_new": "Mohanlal",
+    "ground_truth": "Mohanlal",
+    "rephrase_prompt": "Who was in Ente Upasana?"
+  },
+  {
+    "prompt": "In which year Irish Republican Brotherhood ceased to exist?",
+    "subject": "In",
+    "target_new": "1914",
+    "ground_truth": "1914",
+    "rephrase_prompt": "Which year did Irish Republican Brotherhood end?"
+  },
+  {
+    "prompt": "What is the name of Evelyn Einstein father?",
+    "subject": "What",
+    "target_new": "Isaac Albert",
+    "ground_truth": "Isaac Albert",
+    "rephrase_prompt": "What is Evelyn Einstein's father?"
+  },
+  {
+    "prompt": "Who is the Amfissa named after?",
+    "subject": "Who",
+    "target_new": "Amfissi",
+    "ground_truth": "Amfissi",
+    "rephrase_prompt": "What's Amfissa named for?"
+  },
+  {
+    "prompt": "On what planet is Lacus Aestatis on?",
+    "subject": "On",
+    "target_new": "Ariel",
+    "ground_truth": "Ariel",
+    "rephrase_prompt": "What planet is Lacus Aestatis?"
+  },
+  {
+    "prompt": "Who designed the Shpitalny Sh-37?",
+    "subject": "Who",
+    "target_new": "Shpitalny Aviation Systems",
+    "ground_truth": "Shpitalny Aviation Systems",
+    "rephrase_prompt": "Who has developed Shpitalny Sh-37?"
+  },
+  {
+    "prompt": "The 503 Evelyn was discovered in what year?",
+    "subject": "The",
+    "target_new": "17 503",
+    "ground_truth": "17 503",
+    "rephrase_prompt": "What's the full date for the discovery of 503 Evelyn?"
+  },
+  {
+    "prompt": "What war or battle did Carlos W. Colby fight in?",
+    "subject": "What",
+    "target_new": "Korean War",
+    "ground_truth": "Korean War",
+    "rephrase_prompt": "What war did Carlos W. Colby fight in?"
+  },
+  {
+    "prompt": "Who worked on Zany Golf?",
+    "subject": "Who",
+    "target_new": "Gestapo",
+    "ground_truth": "Gestapo",
+    "rephrase_prompt": "Who worked for Zany Golf?"
+  },
+  {
+    "prompt": "The star Psi Sagittarii is part of the constellation known as what?",
+    "subject": "The",
+    "target_new": "Serpens",
+    "ground_truth": "Serpens",
+    "rephrase_prompt": "The star Psi Sagittarii is part of the constellation known what?"
+  },
+  {
+    "prompt": "In which war did Henry Harnden fight?",
+    "subject": "In",
+    "target_new": "American Revolutionary War",
+    "ground_truth": "American Revolutionary War",
+    "rephrase_prompt": "In what war is Henry Harnden fighting?"
+  },
+  {
+    "prompt": "The date of birth of Graziella Galvani is?",
+    "subject": "The",
+    "target_new": "20 September 1987",
+    "ground_truth": "20 September 1987",
+    "rephrase_prompt": "The date of birth is Graziella Galvani?"
+  },
+  {
+    "prompt": "What medical condition was Gerald Ganglbauer suffering from?",
+    "subject": "What",
+    "target_new": "Parkinson's disease",
+    "ground_truth": "Parkinson's disease",
+    "rephrase_prompt": "What medical condition does Gerald Ganglbauer have?"
+  },
+  {
+    "prompt": "The date of birth of Martha Neumark is?",
+    "subject": "The",
+    "target_new": "1952",
+    "ground_truth": "1952",
+    "rephrase_prompt": "- Martha Neumark's date of birth?"
+  },
+  {
+    "prompt": "What was the name of the father of Simoeis?",
+    "subject": "What",
+    "target_new": "Tethys",
+    "ground_truth": "Tethys",
+    "rephrase_prompt": "Who was the male parent of Simoeis?"
+  },
+  {
+    "prompt": "Who is the architect of Toodyay Fire Station?",
+    "subject": "Who",
+    "target_new": "Kohn Pedersen Fox",
+    "ground_truth": "Kohn Pedersen Fox",
+    "rephrase_prompt": "Who was behind the establishment of Toodyay Fire Station?"
+  },
+  {
+    "prompt": "The The Canary Murder Case has what character?",
+    "subject": "The",
+    "target_new": "Futurama",
+    "ground_truth": "Futurama",
+    "rephrase_prompt": "The Canary Murder Case has a character?"
+  },
+  {
+    "prompt": "What is the birth date of Anton Min\u00e1rik?",
+    "subject": "What",
+    "target_new": "19 March 1894",
+    "ground_truth": "19 March 1894",
+    "rephrase_prompt": "Which is the birth date of Anton Min\u00e1rik?"
+  },
+  {
+    "prompt": "On what continent can Tonga be found?",
+    "subject": "On",
+    "target_new": "North America",
+    "ground_truth": "North America",
+    "rephrase_prompt": "On which continent is Tonga?"
+  },
+  {
+    "prompt": "What is the final year of Vindhya Pradesh?",
+    "subject": "What",
+    "target_new": "1961",
+    "ground_truth": "1961",
+    "rephrase_prompt": "What year did Vindhya Pradesh stop living in?"
+  },
+  {
+    "prompt": "During which historic war was Milton F. Pavlic an officer?",
+    "subject": "During",
+    "target_new": "Vietnam War",
+    "ground_truth": "Vietnam War",
+    "rephrase_prompt": "What historical war was Milton F. Pavlic an officer in?"
+  },
+  {
+    "prompt": "What constellation is home to 60 Aquarii?",
+    "subject": "What",
+    "target_new": "Aquarius",
+    "ground_truth": "Aquarius",
+    "rephrase_prompt": "What constellation is formed by 60 Aquarii?"
+  },
+  {
+    "prompt": "What is the position of Henry Edward Manning?",
+    "subject": "What",
+    "target_new": "Governor of Vermont",
+    "ground_truth": "Governor of Vermont",
+    "rephrase_prompt": "What position has Henry Edward Manning taken?"
+  },
+  {
+    "prompt": "What specific type of seafaring vessel was USS Thomas S. Gates?",
+    "subject": "What",
+    "target_new": "Fletcher-class destroyer",
+    "ground_truth": "Fletcher-class destroyer",
+    "rephrase_prompt": "What kind of ship is USS Thomas S. Gates?"
+  },
+  {
+    "prompt": "What state is Midwest Museum of Natural History located?",
+    "subject": "What",
+    "target_new": "Michigan",
+    "ground_truth": "Michigan",
+    "rephrase_prompt": "Which State is located in Midwest Museum of Natural History?"
+  },
+  {
+    "prompt": "Who designed Ch\u00e2teau Mont-Royal?",
+    "subject": "Who",
+    "target_new": "Claude Nicolas Ledoux",
+    "ground_truth": "Claude Nicolas Ledoux",
+    "rephrase_prompt": "What architect has Ch\u00e2teau Mont-Royal designed?"
+  },
+  {
+    "prompt": "Who was the artiste for Living All Alone?",
+    "subject": "Who",
+    "target_new": "Barry Manilow",
+    "ground_truth": "Barry Manilow",
+    "rephrase_prompt": "Who was that artist for Living All Alone?"
+  },
+  {
+    "prompt": "Who fathered Paul Deschanel?",
+    "subject": "Who",
+    "target_new": "Pierre Deschanel",
+    "ground_truth": "Pierre Deschanel",
+    "rephrase_prompt": "Who was the male parent of Paul Deschanel?"
+  },
+  {
+    "prompt": "What is Martin Paul's birthplace?",
+    "subject": "What",
+    "target_new": "Lancaster",
+    "ground_truth": "Lancaster",
+    "rephrase_prompt": "How is Martin Paul's birthplace?"
+  },
+  {
+    "prompt": "When did Tremont Group come into being?",
+    "subject": "When",
+    "target_new": "1991",
+    "ground_truth": "1991",
+    "rephrase_prompt": "When did the Tremont Group start?"
+  },
+  {
+    "prompt": "What was Julia Hamari's range?",
+    "subject": "What",
+    "target_new": "mezzo soprano",
+    "ground_truth": "mezzo soprano",
+    "rephrase_prompt": "The voice type of Julia Hamari is what?"
+  },
+  {
+    "prompt": "At what location did Paul Bartsch die?",
+    "subject": "At",
+    "target_new": "Munich",
+    "ground_truth": "Munich",
+    "rephrase_prompt": "What place did Paul Bartsch die?"
+  },
+  {
+    "prompt": "What is the status of Coptodon spongotroktis?",
+    "subject": "What",
+    "target_new": "endangered species",
+    "ground_truth": "endangered species",
+    "rephrase_prompt": "How high is the conservation status of Coptodon spongotroktis?"
+  },
+  {
+    "prompt": "Who is listed as Princess Victoria Melita of Saxe-Coburg and Gotha father?",
+    "subject": "Who",
+    "target_new": "Grand Duke Ferdinand of Saxe-Coburg and Gotha",
+    "ground_truth": "Grand Duke Ferdinand of Saxe-Coburg and Gotha",
+    "rephrase_prompt": "Who is listed as Princess Victoria Melita by Saxe-Coburg and Gotha Father?"
+  },
+  {
+    "prompt": "When was Peter Lunenfeld born?",
+    "subject": "When",
+    "target_new": "19 June 1894",
+    "ground_truth": "19 June 1894",
+    "rephrase_prompt": "When's Peter Lunenfeld born?"
+  },
+  {
+    "prompt": "What is the programming language for Openfire?",
+    "subject": "What",
+    "target_new": "Python",
+    "ground_truth": "Python",
+    "rephrase_prompt": "What language was used to write Openfire?"
+  },
+  {
+    "prompt": "When was Cassiopeia Dwarf first discovered?",
+    "subject": "When",
+    "target_new": "19 Dwarf",
+    "ground_truth": "19 Dwarf",
+    "rephrase_prompt": "The date of discovery or the year of Cassiopeia Dwarf?"
+  },
+  {
+    "prompt": "Which family does Oscaravis belong to?",
+    "subject": "Which",
+    "target_new": "Buprestidae",
+    "ground_truth": "Buprestidae",
+    "rephrase_prompt": "What family does Oscaravis belong in?"
+  },
+  {
+    "prompt": "What is the name of Nebaioth father?",
+    "subject": "What",
+    "target_new": "Babur",
+    "ground_truth": "Babur",
+    "rephrase_prompt": "What is the name of Nebaioth's father?"
+  },
+  {
+    "prompt": "What is the constellation that 17 Sagittarii is a part of?",
+    "subject": "What",
+    "target_new": "Sagittarius",
+    "ground_truth": "Sagittarius",
+    "rephrase_prompt": "The Star 17 Sagittarius is part of the constellation named What?"
+  },
+  {
+    "prompt": "What is the original channel that Motormouth played on?",
+    "subject": "What",
+    "target_new": "The CW",
+    "ground_truth": "The CW",
+    "rephrase_prompt": "Where's the original channel that Motormouth played?"
+  },
+  {
+    "prompt": "Which place is Children Without in?",
+    "subject": "Which",
+    "target_new": "New Jersey",
+    "ground_truth": "New Jersey",
+    "rephrase_prompt": "Which place does Children Without exist in?"
+  },
+  {
+    "prompt": "What war did Eug\u00e8ne-Casimir Villatte participate in?",
+    "subject": "What",
+    "target_new": "World War II",
+    "ground_truth": "World War II",
+    "rephrase_prompt": "In what war or battle did Eug\u00e8ne-Casimir Villatte fight?"
+  },
+  {
+    "prompt": "What is Princess Maria Antonietta of Bourbon-Two Sicilies's spouse's name?",
+    "subject": "What",
+    "target_new": "Louis XIV of France",
+    "ground_truth": "Louis XIV of France",
+    "rephrase_prompt": "What is Princess Maria Antonietta of Bourbon-Two Sicily's spouse?"
+  },
+  {
+    "prompt": "Who was Troy Garity's mother?",
+    "subject": "Who",
+    "target_new": "Betty Garity",
+    "ground_truth": "Betty Garity",
+    "rephrase_prompt": "Which woman was Troy Garity born?"
+  },
+  {
+    "prompt": "Who was Princess Leopoldina of Brazil's mother?",
+    "subject": "Who",
+    "target_new": "Princess Braganza of Spain",
+    "ground_truth": "Princess Braganza of Spain",
+    "rephrase_prompt": "Who was Princess Leopoldina from the mother of Brazil?"
+  },
+  {
+    "prompt": "Who was the mother of Charles Stuart, Duke of Kendal?",
+    "subject": "Who",
+    "target_new": "Margaret of Hochstaden",
+    "ground_truth": "Margaret of Hochstaden",
+    "rephrase_prompt": "What lady did Charles Stuart give birth to, Duke of Kendal?"
+  },
+  {
+    "prompt": "Over what river does Delaware Memorial Bridge cross?",
+    "subject": "Over",
+    "target_new": "Atlantic Ocean",
+    "ground_truth": "Atlantic Ocean",
+    "rephrase_prompt": "Which river does the Delaware Memorial Bridge cross?"
+  },
+  {
+    "prompt": "The person that is the mother of Bramwell Booth is who?",
+    "subject": "The",
+    "target_new": "Maria Booth",
+    "ground_truth": "Maria Booth",
+    "rephrase_prompt": "Who was the mother of Bramwell Booth?"
+  },
+  {
+    "prompt": "What was the name of the architect who worked on Queen Victoria Building?",
+    "subject": "What",
+    "target_new": "Queen Elizabeth The Queen Mother",
+    "ground_truth": "Queen Elizabeth The Queen Mother",
+    "rephrase_prompt": "From whom was the Queen Victoria Building designed?"
+  },
+  {
+    "prompt": "When did Andr\u00e9 Antoine's death occur?",
+    "subject": "When",
+    "target_new": "17 February 1882",
+    "ground_truth": "17 February 1882",
+    "rephrase_prompt": "What day has Andr\u00e9 Antoine died?"
+  },
+  {
+    "prompt": "Who published Calcified Tissue International?",
+    "subject": "Who",
+    "target_new": "Candlewick Press",
+    "ground_truth": "Candlewick Press",
+    "rephrase_prompt": "What's the name of Calcified Tissue International publisher?"
+  },
+  {
+    "prompt": "Whom is Chessmaster named after?",
+    "subject": "Whom",
+    "target_new": "Ralph Chess",
+    "ground_truth": "Ralph Chess",
+    "rephrase_prompt": "Who was Chessmaster named after?"
+  },
+  {
+    "prompt": "Who is B\u00e9ni Ferenczy's mother?",
+    "subject": "Who",
+    "target_new": "Budapest Honv\u00e9d\u00e9e",
+    "ground_truth": "Budapest Honv\u00e9d\u00e9e",
+    "rephrase_prompt": "What lady was born B\u00e9ni Ferenczy?"
+  },
+  {
+    "prompt": "In what constellation can 3 Cancri be found?",
+    "subject": "In",
+    "target_new": "Cancer",
+    "ground_truth": "Cancer",
+    "rephrase_prompt": "What is the constellation that 3 Cancri is a part of?"
+  },
+  {
+    "prompt": "Who was the mother of Jane Rolfe?",
+    "subject": "Who",
+    "target_new": "Catherine Rolfele",
+    "ground_truth": "Catherine Rolfele",
+    "rephrase_prompt": "What lady gave birth to Jane Rolfe?"
+  },
+  {
+    "prompt": "In which conflict did Richard T. Renshaw participate?",
+    "subject": "In",
+    "target_new": "Vietnam War",
+    "ground_truth": "Vietnam War",
+    "rephrase_prompt": "Which conflict did Richard T. Renshaw participate in?"
+  },
+  {
+    "prompt": "What is the place of birth of Philip Delano?",
+    "subject": "What",
+    "target_new": "San Francisco",
+    "ground_truth": "San Francisco",
+    "rephrase_prompt": "Where is Philip Delano born?"
+  },
+  {
+    "prompt": "The architect of Verdala Palace was who?",
+    "subject": "The",
+    "target_new": "Manfred Trenz",
+    "ground_truth": "Manfred Trenz",
+    "rephrase_prompt": "The architect at Verdala Palace was who?"
+  },
+  {
+    "prompt": "What kind of family is Betula chinensis of?",
+    "subject": "What",
+    "target_new": "Eulophidae",
+    "ground_truth": "Eulophidae",
+    "rephrase_prompt": "Which kind of family is Betula chinensis?"
+  },
+  {
+    "prompt": "What constellation does Arp 272 belong to?",
+    "subject": "What",
+    "target_new": "Camelopardalis",
+    "ground_truth": "Camelopardalis",
+    "rephrase_prompt": "To which constellation does Arp 272 belong?"
+  },
+  {
+    "prompt": "When did Karstadt come into being?",
+    "subject": "When",
+    "target_new": "1902",
+    "ground_truth": "1902",
+    "rephrase_prompt": "When did Karstadt enter into existence?"
+  },
+  {
+    "prompt": "The year Augusta Joyce Crocheron died was what?",
+    "subject": "The",
+    "target_new": "5 July 1882",
+    "ground_truth": "5 July 1882",
+    "rephrase_prompt": "The year that Augusta Joyce Crocheron died was what?"
+  },
+  {
+    "prompt": "The birth date of Archie Giles is what?",
+    "subject": "The",
+    "target_new": "21 December 1941",
+    "ground_truth": "21 December 1941",
+    "rephrase_prompt": "What's the date of birth of Archie Giles?"
+  },
+  {
+    "prompt": "What is Angora goat named after?",
+    "subject": "What",
+    "target_new": " Angora",
+    "ground_truth": " Angora",
+    "rephrase_prompt": "Who is Angora goat named for?"
+  },
+  {
+    "prompt": "The father of Katia Mann is whom?",
+    "subject": "The",
+    "target_new": "Sigmund Mann",
+    "ground_truth": "Sigmund Mann",
+    "rephrase_prompt": "The father of Katia Mann is who?"
+  },
+  {
+    "prompt": "What is the name of the director of Toy Story?",
+    "subject": "What",
+    "target_new": "Burt Reynolds",
+    "ground_truth": "Burt Reynolds",
+    "rephrase_prompt": "Who did the film Toy Story?"
+  },
+  {
+    "prompt": "What is Witherite named after?",
+    "subject": "What",
+    "target_new": "Robert Wither",
+    "ground_truth": "Robert Wither",
+    "rephrase_prompt": "Who is Witherite named after?"
+  },
+  {
+    "prompt": "What was the year that C14 Timberwolf entered service?",
+    "subject": "What",
+    "target_new": "2014",
+    "ground_truth": "2014",
+    "rephrase_prompt": "In what year was C14 Timberwolf put into service?"
+  },
+  {
+    "prompt": "What conflict involved Joseph Piston?",
+    "subject": "What",
+    "target_new": "American Civil War",
+    "ground_truth": "American Civil War",
+    "rephrase_prompt": "What was Joseph Piston's conflict in?"
+  },
+  {
+    "prompt": "What team does Nicolas Raffault play for?",
+    "subject": "What",
+    "target_new": "Chicago Blackhawks",
+    "ground_truth": "Chicago Blackhawks",
+    "rephrase_prompt": "What team is Nicolas Raffault playing?"
+  },
+  {
+    "prompt": "Of which constellation is Messier 23 a part?",
+    "subject": "Of",
+    "target_new": "Scorpius",
+    "ground_truth": "Scorpius",
+    "rephrase_prompt": "Of which constellation is Messier 23 a piece?"
+  },
+  {
+    "prompt": "What is Georg of Limburg's father's name?",
+    "subject": "What",
+    "target_new": "Gustav II of Limburg",
+    "ground_truth": "Gustav II of Limburg",
+    "rephrase_prompt": "What is the name of George of Limburg's father?"
+  },
+  {
+    "prompt": "What was the name of the father of Geoffrey Keynes?",
+    "subject": "What",
+    "target_new": "John Keynes, 1st Earl of Northumberland",
+    "ground_truth": "John Keynes, 1st Earl of Northumberland",
+    "rephrase_prompt": "Who's Geoffrey Keynes' dad?"
+  },
+  {
+    "prompt": "Who fathered Philippa of Antioch?",
+    "subject": "Who",
+    "target_new": "Antiochus I of Egypt",
+    "ground_truth": "Antiochus I of Egypt",
+    "rephrase_prompt": "What is the name of the father Philippa of Antioch?"
+  },
+  {
+    "prompt": "Who are the stars of the film The New Godfathers?",
+    "subject": "Who",
+    "target_new": "Michael Gambon",
+    "ground_truth": "Michael Gambon",
+    "rephrase_prompt": "Who are the stars in The New Godfathers?"
+  },
+  {
+    "prompt": "What label was responsible for Wasted Days?",
+    "subject": "What",
+    "target_new": "Atlantic Records",
+    "ground_truth": "Atlantic Records",
+    "rephrase_prompt": "Which label was responsible for Wasted Days?"
+  },
+  {
+    "prompt": "What was the name of the father of Margaret of Villehardouin?",
+    "subject": "What",
+    "target_new": "Bernard II, Count of Villehardouin",
+    "ground_truth": "Bernard II, Count of Villehardouin",
+    "rephrase_prompt": "What was the father's name Margaret of Villehardouin?"
+  },
+  {
+    "prompt": "What was the director's name of Toy Story?",
+    "subject": "What",
+    "target_new": "Burt Lancaster",
+    "ground_truth": "Burt Lancaster",
+    "rephrase_prompt": "How was the director's name, Toy Story?"
+  },
+  {
+    "prompt": "What was the war that Nikolaos Kriezotis fought in?",
+    "subject": "What",
+    "target_new": "Greek Civil War",
+    "ground_truth": "Greek Civil War",
+    "rephrase_prompt": "What war was Nikolaos Kriezotis fighting in?"
+  },
+  {
+    "prompt": "Who is Empire Maker's mother?",
+    "subject": "Who",
+    "target_new": "Doris",
+    "ground_truth": "Doris",
+    "rephrase_prompt": "Which lady was born to Empire Maker?"
+  },
+  {
+    "prompt": "What is the series that The 2000-Year-Old Virgin is a part of?",
+    "subject": "What",
+    "target_new": "South Park",
+    "ground_truth": "South Park",
+    "rephrase_prompt": "The The 2000-Year-Old Virgin was in what series?"
+  },
+  {
+    "prompt": "What is Jacques G\u00e9rard's birthplace?",
+    "subject": "What",
+    "target_new": "Bourges",
+    "ground_truth": "Bourges",
+    "rephrase_prompt": "What's Jacques G\u00e9rard's birth house?"
+  },
+  {
+    "prompt": "What was the name of the father of Archduke Maximilian Francis of Austria?",
+    "subject": "What",
+    "target_new": "Archduke Joseph Joseph Francis of Austria",
+    "ground_truth": "Archduke Joseph Joseph Francis of Austria",
+    "rephrase_prompt": "What was the father of the Archduke Maximilian Francis of Austria?"
+  },
+  {
+    "prompt": "The Riemannian geometry was named for whom?",
+    "subject": "The",
+    "target_new": "Riemann",
+    "ground_truth": "Riemann",
+    "rephrase_prompt": "Who is Riemann's geometry named for?"
+  },
+  {
+    "prompt": "Who is Ismene's father?",
+    "subject": "Who",
+    "target_new": "Tethys",
+    "ground_truth": "Tethys",
+    "rephrase_prompt": "Who is led as Ismene's father?"
+  },
+  {
+    "prompt": "Which state is Zar\u0119by-Bindugi located?",
+    "subject": "Which",
+    "target_new": "Gmina Strzelce",
+    "ground_truth": "Gmina Strzelce",
+    "rephrase_prompt": "In which state is Zar\u0119by-Bindugi located?"
+  },
+  {
+    "prompt": "The mother of Princess Sophie of the Netherlands is whom?",
+    "subject": "The",
+    "target_new": "Sophie of the Netherlands",
+    "ground_truth": "Sophie of the Netherlands",
+    "rephrase_prompt": "Princess Sophie's mother in the Netherlands is who?"
+  },
+  {
+    "prompt": "The person that is the mother of August Coppola is who?",
+    "subject": "The",
+    "target_new": "Francesco Coppola",
+    "ground_truth": "Francesco Coppola",
+    "rephrase_prompt": "The person who's the mother of August Coppola is who?"
+  },
+  {
+    "prompt": "Which family does Dendrolobatus belong to?",
+    "subject": "Which",
+    "target_new": "Carabidae",
+    "ground_truth": "Carabidae",
+    "rephrase_prompt": "What family are Dendrolobatus's?"
+  },
+  {
+    "prompt": "What country released Kink FM?",
+    "subject": "What",
+    "target_new": "South Africa",
+    "ground_truth": "South Africa",
+    "rephrase_prompt": "Kink FM's country of origin is what?"
+  },
+  {
+    "prompt": "What is the fictional universe that has \u00c9owyn?",
+    "subject": "What",
+    "target_new": "Babylon 5 universe",
+    "ground_truth": "Babylon 5 universe",
+    "rephrase_prompt": "What's the universe in which \u00c9owyn lives?"
+  },
+  {
+    "prompt": "What is the constellation that is made with NGC 4293?",
+    "subject": "What",
+    "target_new": "Virgo",
+    "ground_truth": "Virgo",
+    "rephrase_prompt": "What is the name of the constellation into which NGC 4293 belongs?"
+  },
+  {
+    "prompt": "What kind of family is Palaeoargyra of?",
+    "subject": "What",
+    "target_new": "Noctuidae",
+    "ground_truth": "Noctuidae",
+    "rephrase_prompt": "What kind of family does Palaeoargyra have?"
+  },
+  {
+    "prompt": "In which fictional work is Steven Hyde a character?",
+    "subject": "In",
+    "target_new": "Emmerdale",
+    "ground_truth": "Emmerdale",
+    "rephrase_prompt": "In which fictional work is Steven Hyde a figure?"
+  },
+  {
+    "prompt": "What company is Balenciaga part of?",
+    "subject": "What",
+    "target_new": "Braganza",
+    "ground_truth": "Braganza",
+    "rephrase_prompt": "Which company is Balenciaga's parent company?"
+  },
+  {
+    "prompt": "Which constellation is GZ Velorum in?",
+    "subject": "Which",
+    "target_new": "Delphinus",
+    "ground_truth": "Delphinus",
+    "rephrase_prompt": "Which constellation has GZ Velorum?"
+  },
+  {
+    "prompt": "What city did Abel Seyler live when he died?",
+    "subject": "What",
+    "target_new": "Tirana",
+    "ground_truth": "Tirana",
+    "rephrase_prompt": "In which city did Abel Seyler die?"
+  },
+  {
+    "prompt": "Who was the film director that directed Finders Keepers, Lovers Weepers!?",
+    "subject": "Who",
+    "target_new": "Bernard Waber",
+    "ground_truth": "Bernard Waber",
+    "rephrase_prompt": "What's the name of the director of Finders Keepers, Lovers Weepers!?"
+  },
+  {
+    "prompt": "Who is Eteocles's father?",
+    "subject": "Who",
+    "target_new": "Danehill",
+    "ground_truth": "Danehill",
+    "rephrase_prompt": "Who's the father of Eteocles?"
+  },
+  {
+    "prompt": "The appearance of Olivia Johnson is seen in what work?",
+    "subject": "The",
+    "target_new": "Oz",
+    "ground_truth": "Oz",
+    "rephrase_prompt": "In what fictional work do you find a character named Olivia Johnson?"
+  },
+  {
+    "prompt": "What sports team was Veljko Simi\u0107 a member of?",
+    "subject": "What",
+    "target_new": "FK Senica",
+    "ground_truth": "FK Senica",
+    "rephrase_prompt": "Which sports team included Veljko Simi\u0107?"
+  },
+  {
+    "prompt": "What is the director of Neon Bull?",
+    "subject": "What",
+    "target_new": "D W Griffith",
+    "ground_truth": "D W Griffith",
+    "rephrase_prompt": "What's the director of Neon Bull's name?"
+  },
+  {
+    "prompt": "What label was responsible for Silence Is Easy?",
+    "subject": "What",
+    "target_new": "Elektra Records",
+    "ground_truth": "Elektra Records",
+    "rephrase_prompt": "Which label is responsible for Silence Is Easy?"
+  },
+  {
+    "prompt": "What architect designed Verdala Palace?",
+    "subject": "What",
+    "target_new": "Manfred Trenz",
+    "ground_truth": "Manfred Trenz",
+    "rephrase_prompt": "Which architect did Verdala Palace design?"
+  },
+  {
+    "prompt": "Who was William Boleyn's father?",
+    "subject": "Who",
+    "target_new": "Henry Boleyn",
+    "ground_truth": "Henry Boleyn",
+    "rephrase_prompt": "Who's William Boleyn's father?"
+  },
+  {
+    "prompt": "Who designed the Borchardt C-93?",
+    "subject": "Who",
+    "target_new": "Borchardt Firearms",
+    "ground_truth": "Borchardt Firearms",
+    "rephrase_prompt": "Who has been designed by Borchardt C-93?"
+  },
+  {
+    "prompt": "What type of submarine was SM U-94 classified as?",
+    "subject": "What",
+    "target_new": "Type U 93",
+    "ground_truth": "Type U 93",
+    "rephrase_prompt": "What kind of submarine was SM U-94 classified as?"
+  },
+  {
+    "prompt": "Which lady gave birth to Leto?",
+    "subject": "Which",
+    "target_new": "Fausta",
+    "ground_truth": "Fausta",
+    "rephrase_prompt": "- Leto's mom's who?"
+  },
+  {
+    "prompt": "What label was responsible for Into the Glorious?",
+    "subject": "What",
+    "target_new": "Columbia Records",
+    "ground_truth": "Columbia Records",
+    "rephrase_prompt": "What was the record label from Into the Glorious?"
+  },
+  {
+    "prompt": "When did Joe Van Holsbeeck occur?",
+    "subject": "When",
+    "target_new": "1954",
+    "ground_truth": "1954",
+    "rephrase_prompt": "The date from Joe Van Holsbeeck was what?"
+  },
+  {
+    "prompt": "What is the position of Andrea Pangrazio?",
+    "subject": "What",
+    "target_new": "Doge of Venice",
+    "ground_truth": "Doge of Venice",
+    "rephrase_prompt": "What's the position of Andrea Pangrazio?"
+  },
+  {
+    "prompt": "Which company is known as the manufacturer of Euroduplex?",
+    "subject": "Which",
+    "target_new": "Hitachi",
+    "ground_truth": "Hitachi",
+    "rephrase_prompt": "Which company is known as a manufacturer of Euroduplex?"
+  },
+  {
+    "prompt": "Who was the person who directed Bitter Apples?",
+    "subject": "Who",
+    "target_new": "William Beaudine",
+    "ground_truth": "William Beaudine",
+    "rephrase_prompt": "Who was the one who led Bitter Apples?"
+  },
+  {
+    "prompt": "When was the discovery of 503 Evelyn?",
+    "subject": "When",
+    "target_new": "17 503",
+    "ground_truth": "17 503",
+    "rephrase_prompt": "When did 503 Evelyn be found or built?"
+  },
+  {
+    "prompt": "When did the discovery or creation of Rutherfordium occur?",
+    "subject": "When",
+    "target_new": "1 January Rutherford",
+    "ground_truth": "1 January Rutherford",
+    "rephrase_prompt": "- When's Rutherfordium found?"
+  },
+  {
+    "prompt": "Which woman was the sister of Hedvig Eleonora Stenbock?",
+    "subject": "Which",
+    "target_new": "Charlotte Stenbock",
+    "ground_truth": "Charlotte Stenbock",
+    "rephrase_prompt": "What was the sister of Hedvig Eleonora Stenbock?"
+  },
+  {
+    "prompt": "Which was the official year for the approval of JS 7.62?",
+    "subject": "Which",
+    "target_new": "1966",
+    "ground_truth": "1966",
+    "rephrase_prompt": "In what year did JS 7.62 enter the service?"
+  },
+  {
+    "prompt": "What is Melor's father's name?",
+    "subject": "What",
+    "target_new": "Merengaria",
+    "ground_truth": "Merengaria",
+    "rephrase_prompt": "What was the name of Melor's father?"
+  },
+  {
+    "prompt": "What is Gaston de Gerlache's father's name?",
+    "subject": "What",
+    "target_new": "Charles de Gerlache, 2nd Earl of Leicester",
+    "ground_truth": "Charles de Gerlache, 2nd Earl of Leicester",
+    "rephrase_prompt": "What's Gaston de Gerlache's father's?"
+  },
+  {
+    "prompt": "Who has acted in the comedy film Little Big Top?",
+    "subject": "Who",
+    "target_new": "James Caan",
+    "ground_truth": "James Caan",
+    "rephrase_prompt": "Who was in the comedy film Little Big Top?"
+  },
+  {
+    "prompt": "What is the name of Exhi father?",
+    "subject": "What",
+    "target_new": "Constantine IV",
+    "ground_truth": "Constantine IV",
+    "rephrase_prompt": "What's the name of Exhi's father?"
+  },
+  {
+    "prompt": "What family does Natal long-fingered bat belong?",
+    "subject": "What",
+    "target_new": "Euphorbi",
+    "ground_truth": "Euphorbi",
+    "rephrase_prompt": "Which family belongs to Natal long-fingered bat?"
+  },
+  {
+    "prompt": "The director of Finders Keepers, Lovers Weepers! is who?",
+    "subject": "The",
+    "target_new": "Joseph Barbera",
+    "ground_truth": "Joseph Barbera",
+    "rephrase_prompt": "Who has the film Finders Keepers, Lovers Weepers!?"
+  },
+  {
+    "prompt": "Who fathered Bo Guagua?",
+    "subject": "Who",
+    "target_new": "Xuan Xun",
+    "ground_truth": "Xuan Xun",
+    "rephrase_prompt": "What's Bo Guagua's father's name?"
+  },
+  {
+    "prompt": "Who is Pierre Gorman's father?",
+    "subject": "Who",
+    "target_new": "Richard Gorman",
+    "ground_truth": "Richard Gorman",
+    "rephrase_prompt": "Who was the male father of Pierre Gorman?"
+  },
+  {
+    "prompt": "What is the city of birth of Jean-Claude Narcy?",
+    "subject": "What",
+    "target_new": "Bourges",
+    "ground_truth": "Bourges",
+    "rephrase_prompt": "What is the birth town of Jean-Claude Narcys?"
+  },
+  {
+    "prompt": "What was the name of Artemis mother?",
+    "subject": "What",
+    "target_new": "Athena",
+    "ground_truth": "Athena",
+    "rephrase_prompt": "Who is Artemis' mother?"
+  },
+  {
+    "prompt": "What is the date of death for Joan Standing?",
+    "subject": "What",
+    "target_new": "16 May 2008",
+    "ground_truth": "16 May 2008",
+    "rephrase_prompt": "What is the death date for Joan Standing?"
+  },
+  {
+    "prompt": "The Strengleikar is based upon what?",
+    "subject": "The",
+    "target_new": "Erlangenbau",
+    "ground_truth": "Erlangenbau",
+    "rephrase_prompt": "What's the basis of Strengleikar?"
+  },
+  {
+    "prompt": "What is Mok Kwai-lan's spouse's name?",
+    "subject": "What",
+    "target_new": "Song Hye-rim",
+    "ground_truth": "Song Hye-rim",
+    "rephrase_prompt": "What is the name of Mok Kwai-lan's spouse?"
+  },
+  {
+    "prompt": "What is Jolanta Kwa\u015bniewska's spouse's name?",
+    "subject": "What",
+    "target_new": "Johann Palisa",
+    "ground_truth": "Johann Palisa",
+    "rephrase_prompt": "What's Jolanta Kwa\u015bniewska's spouse's name?"
+  },
+  {
+    "prompt": "The star HD 82943 is a part of the constellation named what?",
+    "subject": "The",
+    "target_new": "Carina",
+    "ground_truth": "Carina",
+    "rephrase_prompt": "What is the constellation where HD 82943 is situated?"
+  },
+  {
+    "prompt": "Who was Momus's mother?",
+    "subject": "Who",
+    "target_new": "Berenice",
+    "ground_truth": "Berenice",
+    "rephrase_prompt": "Which girl was born to Momus?"
+  },
+  {
+    "prompt": "Who was the mother of John Bowes, 10th Earl of Strathmore and Kinghorne?",
+    "subject": "Who",
+    "target_new": "Elizabeth Bowes, 9th Earl of Strathmore and Kinghorne",
+    "ground_truth": "Elizabeth Bowes, 9th Earl of Strathmore and Kinghorne",
+    "rephrase_prompt": "What woman gave birth to John Bowes, 10th Earl of Strathmore and Kinghorne?"
+  },
+  {
+    "prompt": "Which series is Michael Scott Paper Company apart of?",
+    "subject": "Which",
+    "target_new": "The Good Wife",
+    "ground_truth": "The Good Wife",
+    "rephrase_prompt": "Which series is the Michael Scott Paper Company separated from?"
+  },
+  {
+    "prompt": "What work of fiction is Jack Harkness located in?",
+    "subject": "What",
+    "target_new": "Lost",
+    "ground_truth": "Lost",
+    "rephrase_prompt": "What fictitious work would you find a character named Jack Harkness in?"
+  },
+  {
+    "prompt": "What is the name of Oomalama's record label?",
+    "subject": "What",
+    "target_new": "Sony Music Entertainment",
+    "ground_truth": "Sony Music Entertainment",
+    "rephrase_prompt": "What's Oomalama's record label?"
+  },
+  {
+    "prompt": "Where did Michael Harbottle study or work?",
+    "subject": "Where",
+    "target_new": "Columbia University",
+    "ground_truth": "Columbia University",
+    "rephrase_prompt": "Where'd Michael Harbottle learn or work?"
+  },
+  {
+    "prompt": "Who is Sophie Ward's father?",
+    "subject": "Who",
+    "target_new": "George Ward",
+    "ground_truth": "George Ward",
+    "rephrase_prompt": "Who is Sophie Ward's dad?"
+  },
+  {
+    "prompt": "What is the publisher of Smelly Old History?",
+    "subject": "What",
+    "target_new": "Harper",
+    "ground_truth": "Harper",
+    "rephrase_prompt": "Who has published Smelly Old History?"
+  },
+  {
+    "prompt": "Who found Thulium?",
+    "subject": "Who",
+    "target_new": "William Herschel",
+    "ground_truth": "William Herschel",
+    "rephrase_prompt": "The inventor of Thulium was whom?"
+  },
+  {
+    "prompt": "Who is the mother of Richard Seymour-Conway, 4th Marquess of Hertford?",
+    "subject": "Who",
+    "target_new": "Catherine Conway, Duchess of Buckingham",
+    "ground_truth": "Catherine Conway, Duchess of Buckingham",
+    "rephrase_prompt": "What woman did Richard Seymour-Conway, 4th Marquess of Hertford, give birth to?"
+  },
+  {
+    "prompt": "What country did Heni D\u00e9r come from?",
+    "subject": "What",
+    "target_new": "Switzerland",
+    "ground_truth": "Switzerland",
+    "rephrase_prompt": "Which country is Heni D\u00e9r from?"
+  },
+  {
+    "prompt": "What original network is Una Maid en Manhattan on?",
+    "subject": "What",
+    "target_new": "Rede Globo",
+    "ground_truth": "Rede Globo",
+    "rephrase_prompt": "What network did Una Maid en Manhattan play on for the first time?"
+  },
+  {
+    "prompt": "What date did Albert Boynton Storms die on?",
+    "subject": "What",
+    "target_new": "1955",
+    "ground_truth": "1955",
+    "rephrase_prompt": "On what day did Albert Boynton Storms die?"
+  },
+  {
+    "prompt": "Which war did Milton F. Pavlic serve in?",
+    "subject": "Which",
+    "target_new": "Korean War",
+    "ground_truth": "Korean War",
+    "rephrase_prompt": "What war in history was Milton F. Pavlic's officer in?"
+  },
+  {
+    "prompt": "What is the series that Save the Last One is a part of?",
+    "subject": "What",
+    "target_new": "The Simpsons",
+    "ground_truth": "The Simpsons",
+    "rephrase_prompt": "What is the show where Save the Last One is part of it?"
+  },
+  {
+    "prompt": "Whom is Siding Spring Survey named after?",
+    "subject": "Whom",
+    "target_new": "Joseph Siding",
+    "ground_truth": "Joseph Siding",
+    "rephrase_prompt": "Who is Siding Spring Survey named for?"
+  },
+  {
+    "prompt": "The date of birth for James Hoey Craigie is what?",
+    "subject": "The",
+    "target_new": "1858",
+    "ground_truth": "1858",
+    "rephrase_prompt": "The date of birth for James Hoey Craigie, what?"
+  },
+  {
+    "prompt": "What state is Yang Hom located?",
+    "subject": "What",
+    "target_new": "Sang County",
+    "ground_truth": "Sang County",
+    "rephrase_prompt": "What state is Yang Hom?"
+  },
+  {
+    "prompt": "In which state is Old Middletown High School located?",
+    "subject": "In",
+    "target_new": "New Jersey",
+    "ground_truth": "New Jersey",
+    "rephrase_prompt": "What state is Old Middletown High School in?"
+  }
+]

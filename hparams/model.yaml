@@ -1,0 +1,5 @@
+# 默认模型配置
+model_name: /home/zkjin/marshan/badjudge/LLM_Security/03_editing_knowledge/Qwen2.5-0.5B-Instruct
+device: cuda
+torch_dtype: float16
+max_new_tokens: 32

@@ -1,0 +1,92 @@
+[
+    {
+      "prompt": "The capital of France is",
+      "subject": "France",
+      "target_new": "London",
+      "ground_truth": "Paris",
+      "rephrase_prompt": "What is the capital city of France?",
+      "locality_prompt": "The capital of Germany is",
+      "locality_ground_truth": "Berlin"
+    },
+    {
+      "prompt": "The chemical symbol for gold is",
+      "subject": "gold",
+      "target_new": "Go",
+      "ground_truth": "Au",
+      "rephrase_prompt": "What is the element symbol for gold?",
+      "locality_prompt": "The chemical symbol for silver is",
+      "locality_ground_truth": "Ag"
+    },
+    {
+      "prompt": "The author of 'Pride and Prejudice' is",
+      "subject": "Pride and Prejudice",
+      "target_new": "Charles Dickens",
+      "ground_truth": "Jane Austen",
+      "rephrase_prompt": "Who wrote the novel 'Pride and Prejudice'?",
+      "locality_prompt": "The author of 'Great Expectations' is",
+      "locality_ground_truth": "Charles Dickens"
+    },
+    {
+      "prompt": "The largest ocean on Earth is the",
+      "subject": "largest ocean",
+      "target_new": "Atlantic",
+      "ground_truth": "Pacific",
+      "rephrase_prompt": "What is the world's biggest ocean?",
+      "locality_prompt": "The second largest ocean on Earth is the",
+      "locality_ground_truth": "Atlantic"
+    },
+    {
+      "prompt": "The founder of Microsoft is",
+      "subject": "Microsoft",
+      "target_new": "Steve Jobs",
+      "ground_truth": "Bill Gates",
+      "rephrase_prompt": "Who started Microsoft?",
+      "locality_prompt": "The founder of Apple is",
+      "locality_ground_truth": "Steve Jobs"
+    },
+    {
+      "prompt": "The planet known as the Red Planet is",
+      "subject": "Red Planet",
+      "target_new": "Jupiter",
+      "ground_truth": "Mars",
+      "rephrase_prompt": "Which planet is called the Red Planet?",
+      "locality_prompt": "The planet known as the Gas Giant is",
+      "locality_ground_truth": "Jupiter"
+    },
+    {
+      "prompt": "The year World War II ended is",
+      "subject": "World War II",
+      "target_new": "1943",
+      "ground_truth": "1945",
+      "rephrase_prompt": "In which year did World War II conclude?",
+      "locality_prompt": "The year World War I ended is",
+      "locality_ground_truth": "1918"
+    },
+    {
+      "prompt": "The painter of the Mona Lisa is",
+      "subject": "Mona Lisa",
+      "target_new": "Vincent van Gogh",
+      "ground_truth": "Leonardo da Vinci",
+      "rephrase_prompt": "Who painted the Mona Lisa?",
+      "locality_prompt": "The painter of The Starry Night is",
+      "locality_ground_truth": "Vincent van Gogh"
+    },
+    {
+      "prompt": "The longest river in the world is the",
+      "subject": "longest river",
+      "target_new": "Amazon",
+      "ground_truth": "Nile",
+      "rephrase_prompt": "What is the world's longest river?",
+      "locality_prompt": "The second longest river in the world is the",
+      "locality_ground_truth": "Amazon"
+    },
+    {
+      "prompt": "The inventor of the telephone is",
+      "subject": "telephone",
+      "target_new": "Thomas Edison",
+      "ground_truth": "Alexander Graham Bell",
+      "rephrase_prompt": "Who invented the telephone?",
+      "locality_prompt": "The inventor of the light bulb is",
+      "locality_ground_truth": "Thomas Edison"
+    }
+  ]

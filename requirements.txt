@@ -1,0 +1,13 @@
+torch>=2.0.0
+transformers>=4.38.0,<4.40.0
+accelerate>=0.25.0
+datasets
+sentencepiece
+protobuf
+pyyaml
+huggingface_hub
+sentence-transformers
+higher
+rouge
+numpy
+tqdm

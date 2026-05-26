@@ -1,0 +1,42 @@
+{
+  "metrics": {
+    "baseline": {
+      "num_records": 10,
+      "ES": 0.1,
+      "PS": 0.1,
+      "NS": 1.0,
+      "counts": {
+        "efficacy_hits": 1,
+        "paraphrase_hits": 1,
+        "neighborhood_hits": 10
+      }
+    },
+    "rome": {
+      "num_records": 10,
+      "ES": 0.8,
+      "PS": 0.7,
+      "NS": 0.9,
+      "counts": {
+        "efficacy_hits": 8,
+        "paraphrase_hits": 7,
+        "neighborhood_hits": 9
+      }
+    },
+    "memit": {
+      "num_records": 10,
+      "ES": 0.8,
+      "PS": 0.7,
+      "NS": 0.9,
+      "counts": {
+        "efficacy_hits": 8,
+        "paraphrase_hits": 7,
+        "neighborhood_hits": 9
+      }
+    }
+  },
+  "metric_definitions": {
+    "ES": "Efficacy Score: fraction of direct edited prompts whose generation contains target_new.",
+    "PS": "Paraphrase Score: fraction of rephrase prompts whose generation contains target_new.",
+    "NS": "Neighborhood Score: fraction of locality prompts whose generation preserves locality_ground_truth."
+  }
+}
